@@ -13,7 +13,7 @@ const CONFIG_DATABASE_URL = "https://monzini-mecanicos-default-rtdb.firebaseio.c
 // Necesario porque las reglas de la base de datos ahora exigen "auth != null".
 // No pide usuario/contraseña a los técnicos: el navegador inicia sesión anónima
 // automáticamente y usa ese token para leer/escribir en Realtime Database.
-const FIREBASE_PROJECT_ID = "monzini-mecanica";
+const FIREBASE_PROJECT_ID = "monzini-mecanicos";
 const FIREBASE_API_KEY = "AIzaSyBK2kq47RkDm-Dv8O5LKmmPZCbOgqY4Q3E";
 let firebaseIdToken = null;
 let firebaseAuthReady = null;
