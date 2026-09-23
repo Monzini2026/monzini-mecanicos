@@ -14,7 +14,7 @@ const CONFIG_DATABASE_URL = "https://monzini-mecanica-default-rtdb.firebaseio.co
 // No pide usuario/contraseña a los técnicos: el navegador inicia sesión anónima
 // automáticamente y usa ese token para leer/escribir en Realtime Database.
 const FIREBASE_PROJECT_ID = "monzini-mecanica";
-const FIREBASE_API_KEY = "AIzaSyD1a7s4tZq9baS_aXVgsoNeq26r7XULO-I";
+const FIREBASE_API_KEY = "AIzaSyBK2kq47RkDm-Dv8O5LKmmPZCbOgqY4Q3E";
 let firebaseIdToken = null;
 let firebaseAuthReady = null;
 
