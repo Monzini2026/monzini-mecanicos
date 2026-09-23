@@ -7,7 +7,7 @@
 // Para conectar múltiples dispositivos, crea una base de datos Realtime en Firebase
 // y pega la URL aquí abajo (ejemplo: "https://mi-proyecto-rtdb.firebaseio.com").
 // Si se deja vacío, la aplicación funcionará de forma local (Modo Local).
-const CONFIG_DATABASE_URL = "https://monzini-mecanica-default-rtdb.firebaseio.com"; 
+const CONFIG_DATABASE_URL = "https://monzini-mecanicos-default-rtdb.firebaseio.com"; 
 
 // --- CONFIGURACIÓN DE FIREBASE AUTH (login anónimo automático) ---
 // Necesario porque las reglas de la base de datos ahora exigen "auth != null".
