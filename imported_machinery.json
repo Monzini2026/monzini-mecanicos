@@ -1,0 +1,5357 @@
+[
+  {
+    "id": "92Y006450",
+    "name": "Siruba DL7200-BMI-16",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200-BMI-16",
+    "createdAt": "2026-07-06T20:22:55.306753Z"
+  },
+  {
+    "id": "8DOFJ21739",
+    "name": "Juki DDL-9000B-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000B-55",
+    "createdAt": "2026-07-06T20:22:55.306814Z"
+  },
+  {
+    "id": "2LOFJOO308",
+    "name": "Juki LBH-19905",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH-19905",
+    "createdAt": "2026-07-06T20:22:55.306855Z"
+  },
+  {
+    "id": "2LOEG00622",
+    "name": "Juki LBH-17905",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH-17905",
+    "createdAt": "2026-07-06T20:22:55.306884Z"
+  },
+  {
+    "id": "2D3GF00059",
+    "name": "juki DLN-9010A-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.306910Z"
+  },
+  {
+    "id": "22054519172",
+    "name": "Jack AGF-E",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Jack",
+    "model": "AGF-E",
+    "createdAt": "2026-07-06T20:22:55.306934Z"
+  },
+  {
+    "id": "U914510036",
+    "name": "Singer 591",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Singer",
+    "model": "591",
+    "createdAt": "2026-07-06T20:22:55.306956Z"
+  },
+  {
+    "id": "2L1HK9981",
+    "name": "Juki LK-1903B-5",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LK-1903B-5",
+    "createdAt": "2026-07-06T20:22:55.306978Z"
+  },
+  {
+    "id": "2D3HE00346",
+    "name": "juki DLN-9010A-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.306996Z"
+  },
+  {
+    "id": "22054519169",
+    "name": "Jack AGF-E",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Jack",
+    "model": "AGF-E",
+    "createdAt": "2026-07-06T20:22:55.307016Z"
+  },
+  {
+    "id": "2D3MA00105",
+    "name": "Juki DLN-9010A-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.307038Z"
+  },
+  {
+    "id": "DLNUH12539",
+    "name": "Juki DLN-5410-6",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.307056Z"
+  },
+  {
+    "id": "LHOVD03110",
+    "name": "Juki LH-1152-6",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LH-1152-6",
+    "createdAt": "2026-07-06T20:22:55.307074Z"
+  },
+  {
+    "id": "261568392",
+    "name": "Durkooppader 261",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Durkooppader",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.307093Z"
+  },
+  {
+    "id": "919Y024962",
+    "name": "Siruba DL7200-NMI-16",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200-NMI-16",
+    "createdAt": "2026-07-06T20:22:55.307112Z"
+  },
+  {
+    "id": "2D3MA00102",
+    "name": "Juki DLN-9010A-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.307129Z"
+  },
+  {
+    "id": "8DOHLO2174",
+    "name": "Juki DDL-9000B-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000B-55",
+    "createdAt": "2026-07-06T20:22:55.307146Z"
+  },
+  {
+    "id": "MONZ-LINE-0001",
+    "name": "Juki DLN-5410-6",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.307180Z"
+  },
+  {
+    "id": "505849",
+    "name": "Juki DLN-5410-6",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.307202Z"
+  },
+  {
+    "id": "2D3MA00103",
+    "name": "Juki DLN-9010A-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.307220Z"
+  },
+  {
+    "id": "7678866",
+    "name": "Willcoy Gibbs 515-E32-430",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Willcoy Gibbs",
+    "model": "515-E32-430",
+    "createdAt": "2026-07-06T20:22:55.307237Z"
+  },
+  {
+    "id": "8DOFM21206",
+    "name": "Juki DDL-9000B-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000B-55",
+    "createdAt": "2026-07-06T20:22:55.307254Z"
+  },
+  {
+    "id": "8DOFM21190",
+    "name": "Juki DLL-9000B-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLL-9000B-55",
+    "createdAt": "2026-07-06T20:22:55.307271Z"
+  },
+  {
+    "id": "R01431",
+    "name": "Juki DLN-5410-6",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.307287Z"
+  },
+  {
+    "id": "DLNUJ0693",
+    "name": "Juki DLN-5410-6",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.307306Z"
+  },
+  {
+    "id": "DLNA36438",
+    "name": "Juki DLN-5410-6",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.307328Z"
+  },
+  {
+    "id": "8DOGE12276",
+    "name": "Juki DDL-9000B-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000B-55",
+    "createdAt": "2026-07-06T20:22:55.307349Z"
+  },
+  {
+    "id": "Q17319",
+    "name": "Juki DDL-5550-6",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-5550-6",
+    "createdAt": "2026-07-06T20:22:55.307366Z"
+  },
+  {
+    "id": "696",
+    "name": "Epa 203",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Epa",
+    "model": "203",
+    "createdAt": "2026-07-06T20:22:55.307384Z"
+  },
+  {
+    "id": "373-Q52131",
+    "name": "Juki MB-373",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "MB-373",
+    "createdAt": "2026-07-06T20:22:55.307402Z"
+  },
+  {
+    "id": "2LOMB00717",
+    "name": "JUKI LBH-1790AN",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LBH-1790AN",
+    "createdAt": "2026-07-06T20:22:55.307419Z"
+  },
+  {
+    "id": "2D3JH00038",
+    "name": "Juki DLN-9010A-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.307437Z"
+  },
+  {
+    "id": "505744",
+    "name": "Juki DLN-5410-6",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.307453Z"
+  },
+  {
+    "id": "505743",
+    "name": "Juki DLN-5410-6",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.307469Z"
+  },
+  {
+    "id": "919Y021203",
+    "name": "siruba DL7200NMI-16",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "siruba",
+    "model": "DL7200NMI-16",
+    "createdAt": "2026-07-06T20:22:55.307486Z"
+  },
+  {
+    "id": "2D3HA00108",
+    "name": "Juki DLN-9010A-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.307506Z"
+  },
+  {
+    "id": "2D3MB00089",
+    "name": "Juki DLN-9010A-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.307524Z"
+  },
+  {
+    "id": "V89015037",
+    "name": "siruba DL7200BMI-16",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "siruba",
+    "model": "DL7200BMI-16",
+    "createdAt": "2026-07-06T20:22:55.307541Z"
+  },
+  {
+    "id": "219LOOO422",
+    "name": "siruba 7470-514M-3-24",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "siruba",
+    "model": "7470-514M-3-24",
+    "createdAt": "2026-07-06T20:22:55.307558Z"
+  },
+  {
+    "id": "8DOKJ01676",
+    "name": "Juki DDL-9000C",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000C",
+    "createdAt": "2026-07-06T20:22:55.307575Z"
+  },
+  {
+    "id": "920Y016110",
+    "name": "siruba DL7200BMI-16",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "siruba",
+    "model": "DL7200BMI-16",
+    "createdAt": "2026-07-06T20:22:55.307592Z"
+  },
+  {
+    "id": "2D3MA00100",
+    "name": "Juki DLN-9010A-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.307609Z"
+  },
+  {
+    "id": "2D3GF00094",
+    "name": "Juki DLN-9010A-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.307626Z"
+  },
+  {
+    "id": "2D3MF00067",
+    "name": "Juki DLN-9010A-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.307643Z"
+  },
+  {
+    "id": "504223",
+    "name": "Juki DLN-5410-6",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.307659Z"
+  },
+  {
+    "id": "DKNUH06482",
+    "name": "Juki DLN-5410-6",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.307676Z"
+  },
+  {
+    "id": "2L1A00354",
+    "name": "Juki LK-1900B-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LK-1900B-55",
+    "createdAt": "2026-07-06T20:22:55.307693Z"
+  },
+  {
+    "id": "2L1HJ02000",
+    "name": "Juki LK-1900B-55",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LK-1900B-55",
+    "createdAt": "2026-07-06T20:22:55.307712Z"
+  },
+  {
+    "id": "2LOEB00835",
+    "name": "Juki LBH-17905",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH-17905",
+    "createdAt": "2026-07-06T20:22:55.307730Z"
+  },
+  {
+    "id": "M9569076",
+    "name": "Juki 371U-2",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "371U-2",
+    "createdAt": "2026-07-06T20:22:55.307747Z"
+  },
+  {
+    "id": "2L1H502005",
+    "name": "juki LK-1903B",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "LK-1903B",
+    "createdAt": "2026-07-06T20:22:55.307763Z"
+  },
+  {
+    "id": "811393",
+    "name": "Jack DDL-8700B-7",
+    "area": "Linea del Sid",
+    "status": "Operando",
+    "brand": "Jack",
+    "model": "DDL-8700B-7",
+    "createdAt": "2026-07-06T20:22:55.307780Z"
+  },
+  {
+    "id": "BG1833615",
+    "name": "U. SPECIAL 56500",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "56500",
+    "createdAt": "2026-07-06T20:22:55.308663Z"
+  },
+  {
+    "id": "1289582",
+    "name": "U. SPECIAL 56300",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.308693Z"
+  },
+  {
+    "id": "1184351",
+    "name": "U. SPECIAL 56300",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.308712Z"
+  },
+  {
+    "id": "120288",
+    "name": "U. SPECIAL 56300",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.308730Z"
+  },
+  {
+    "id": "1169578",
+    "name": "U. SPECIAL 56300",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.308747Z"
+  },
+  {
+    "id": "1267625",
+    "name": "U. SPECIAL 56300",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.308765Z"
+  },
+  {
+    "id": "1742855",
+    "name": "U. SPECIAL 56300",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.308782Z"
+  },
+  {
+    "id": "1771040",
+    "name": "U. SPECIAL 56300",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.308799Z"
+  },
+  {
+    "id": "586961",
+    "name": "juki DDL-5550-6",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL-5550-6",
+    "createdAt": "2026-07-06T20:22:55.308815Z"
+  },
+  {
+    "id": "T11311",
+    "name": "juki DDL-5550-6",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL-5550-6",
+    "createdAt": "2026-07-06T20:22:55.308832Z"
+  },
+  {
+    "id": "80BMF02066",
+    "name": "Juki DDL9000C",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL9000C",
+    "createdAt": "2026-07-06T20:22:55.308849Z"
+  },
+  {
+    "id": "8DDMF01948",
+    "name": "Juki DDL9000C",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL9000C",
+    "createdAt": "2026-07-06T20:22:55.308866Z"
+  },
+  {
+    "id": "8DDMF02063",
+    "name": "Juki DDL9000C",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL9000C",
+    "createdAt": "2026-07-06T20:22:55.308883Z"
+  },
+  {
+    "id": "DDLTM11230",
+    "name": "juki DDL-5550-6",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL-5550-6",
+    "createdAt": "2026-07-06T20:22:55.308902Z"
+  },
+  {
+    "id": "DDLTM11216",
+    "name": "juki DDL-5550-6",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL-5550-6",
+    "createdAt": "2026-07-06T20:22:55.308919Z"
+  },
+  {
+    "id": "DDLUH15992",
+    "name": "Juki DDL-5550-6",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-5550-6",
+    "createdAt": "2026-07-06T20:22:55.308936Z"
+  },
+  {
+    "id": "8DDGG12294",
+    "name": "Juki DDL9000C",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL9000C",
+    "createdAt": "2026-07-06T20:22:55.308953Z"
+  },
+  {
+    "id": "2D3EH00353",
+    "name": "Juki DDL9000A",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL9000A",
+    "createdAt": "2026-07-06T20:22:55.308970Z"
+  },
+  {
+    "id": "DLNUHOG483",
+    "name": "Juki DDLN-5410-6",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.308986Z"
+  },
+  {
+    "id": "2D3MF00135",
+    "name": "Juki DLN-9010A-55",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.309003Z"
+  },
+  {
+    "id": "X89015176",
+    "name": "SIRUBA DL7200",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200",
+    "createdAt": "2026-07-06T20:22:55.309020Z"
+  },
+  {
+    "id": "DLNTHO1158",
+    "name": "juki DLN5410-6",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN5410-6",
+    "createdAt": "2026-07-06T20:22:55.309036Z"
+  },
+  {
+    "id": "D26158495",
+    "name": "DURKOPP 261",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "DURKOPP",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.309053Z"
+  },
+  {
+    "id": "2615681399",
+    "name": "DURKOPP 261",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "DURKOPP",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.309070Z"
+  },
+  {
+    "id": "920406454",
+    "name": "SIRUBA DL7200BMI-16",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200BMI-16",
+    "createdAt": "2026-07-06T20:22:55.309092Z"
+  },
+  {
+    "id": "9204016154",
+    "name": "SIRUBA DL7200BMI-16",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200BMI-16",
+    "createdAt": "2026-07-06T20:22:55.309113Z"
+  },
+  {
+    "id": "5410-6",
+    "name": "Juki 585104",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "585104",
+    "createdAt": "2026-07-06T20:22:55.309131Z"
+  },
+  {
+    "id": "261568414",
+    "name": "DURKOPP 261",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "DURKOPP",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.309148Z"
+  },
+  {
+    "id": "8D0409183",
+    "name": "juki DDL900BB",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL900BB",
+    "createdAt": "2026-07-06T20:22:55.309164Z"
+  },
+  {
+    "id": "92YDO6434",
+    "name": "Juki DL7200",
+    "area": "Derson Flores",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DL7200",
+    "createdAt": "2026-07-06T20:22:55.309181Z"
+  },
+  {
+    "id": "2D3MF00066",
+    "name": "juki DLN-9010A-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.311222Z"
+  },
+  {
+    "id": "261568411",
+    "name": "DURKOPP ADLER 261",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "DURKOPP ADLER",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.311267Z"
+  },
+  {
+    "id": "2D3GF00068",
+    "name": "juki DLN-9010A-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.311287Z"
+  },
+  {
+    "id": "2D3GC000302",
+    "name": "juki DLN-9010A-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.311306Z"
+  },
+  {
+    "id": "2D3MF00129",
+    "name": "juki DLN-9010A-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.311324Z"
+  },
+  {
+    "id": "MONZ-HUGO-0002",
+    "name": "juki DLNVH12563",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLNVH12563",
+    "createdAt": "2026-07-06T20:22:55.311359Z"
+  },
+  {
+    "id": "2D3DD00226",
+    "name": "juki DLN901055",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN901055",
+    "createdAt": "2026-07-06T20:22:55.311377Z"
+  },
+  {
+    "id": "3MITD00090",
+    "name": "juki MH380",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "MH380",
+    "createdAt": "2026-07-06T20:22:55.311395Z"
+  },
+  {
+    "id": "2181006852",
+    "name": "SIRUBA 747LD-514M",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "747LD-514M",
+    "createdAt": "2026-07-06T20:22:55.311412Z"
+  },
+  {
+    "id": "219L000381",
+    "name": "SIRUBA 747LD-514M",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "747LD-514M",
+    "createdAt": "2026-07-06T20:22:55.311428Z"
+  },
+  {
+    "id": "2D36C00294",
+    "name": "juki DLN-9010A-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.311444Z"
+  },
+  {
+    "id": "2L18007821",
+    "name": "SIRUBA 747LD-514M",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "747LD-514M",
+    "createdAt": "2026-07-06T20:22:55.311462Z"
+  },
+  {
+    "id": "X89018131",
+    "name": "SIRUBA DL7200-NMI-16",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200-NMI-16",
+    "createdAt": "2026-07-06T20:22:55.311478Z"
+  },
+  {
+    "id": "X89018136",
+    "name": "SIRUBA DL7200-NMI-16",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200-NMI-16",
+    "createdAt": "2026-07-06T20:22:55.311494Z"
+  },
+  {
+    "id": "2D3JL00110",
+    "name": "juki DLN-9010A-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.311509Z"
+  },
+  {
+    "id": "3MITD00091",
+    "name": "Juki MLT380",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "MLT380",
+    "createdAt": "2026-07-06T20:22:55.311524Z"
+  },
+  {
+    "id": "2D3JL21761",
+    "name": "Juki DDL9000B-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL9000B-55",
+    "createdAt": "2026-07-06T20:22:55.311539Z"
+  },
+  {
+    "id": "950159",
+    "name": "SINGER 261",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "SINGER",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.311561Z"
+  },
+  {
+    "id": "BBWBPD4SE00090",
+    "name": "Juki DLN5490N-7",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN5490N-7",
+    "createdAt": "2026-07-06T20:22:55.311578Z"
+  },
+  {
+    "id": "2D3MF00132",
+    "name": "Juki DLN-9010A-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.311593Z"
+  },
+  {
+    "id": "210MG00581",
+    "name": "juki LHB1790AN",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "LHB1790AN",
+    "createdAt": "2026-07-06T20:22:55.311609Z"
+  },
+  {
+    "id": "2LMF00080",
+    "name": "juki LKI903BN",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "LKI903BN",
+    "createdAt": "2026-07-06T20:22:55.311624Z"
+  },
+  {
+    "id": "6",
+    "name": "ASCOLITE B55-15TWINHEAD",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "ASCOLITE",
+    "model": "B55-15TWINHEAD",
+    "createdAt": "2026-07-06T20:22:55.311639Z"
+  },
+  {
+    "id": "PTX-CT1-00028",
+    "name": "TAJINA TEHX-C1218",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "TAJINA",
+    "model": "TEHX-C1218",
+    "createdAt": "2026-07-06T20:22:55.311655Z"
+  },
+  {
+    "id": "MZN-PL9-001033",
+    "name": "BARUDAM BEXT-5150ICB11",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "BARUDAM",
+    "model": "BEXT-5150ICB11",
+    "createdAt": "2026-07-06T20:22:55.311671Z"
+  },
+  {
+    "id": "MZN-PL9-00833",
+    "name": "BARUDAM BEXT-5150ICB11",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "BARUDAM",
+    "model": "BEXT-5150ICB11",
+    "createdAt": "2026-07-06T20:22:55.311687Z"
+  },
+  {
+    "id": "2205458982",
+    "name": "JACK AGF-E",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "AGF-E",
+    "createdAt": "2026-07-06T20:22:55.311702Z"
+  },
+  {
+    "id": "22054519315",
+    "name": "JACK AGF-E",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "AGF-E",
+    "createdAt": "2026-07-06T20:22:55.311719Z"
+  },
+  {
+    "id": "DL-7200-NMI-16",
+    "name": "SIRUBA 919Y024961",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "919Y024961",
+    "createdAt": "2026-07-06T20:22:55.311735Z"
+  },
+  {
+    "id": "8DOFJ21750",
+    "name": "juki DDL9000B-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL9000B-55",
+    "createdAt": "2026-07-06T20:22:55.311760Z"
+  },
+  {
+    "id": "2D3JH00055",
+    "name": "juki DLN-9010A-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.311782Z"
+  },
+  {
+    "id": "X89017203",
+    "name": "SIRUBA DLN-7200-NMI-16",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DLN-7200-NMI-16",
+    "createdAt": "2026-07-06T20:22:55.311797Z"
+  },
+  {
+    "id": "504244",
+    "name": "juki DLN-540-6",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-540-6",
+    "createdAt": "2026-07-06T20:22:55.311813Z"
+  },
+  {
+    "id": "2L1MDO2297",
+    "name": "juki DLN-9010A-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.311828Z"
+  },
+  {
+    "id": "240933504952",
+    "name": "SIRUBA DL7200-NMI-16",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200-NMI-16",
+    "createdAt": "2026-07-06T20:22:55.311844Z"
+  },
+  {
+    "id": "2D3MF00060",
+    "name": "juki DLN-9010A-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.311860Z"
+  },
+  {
+    "id": "J715928",
+    "name": "BROTHER MA4-U92-65",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "BROTHER",
+    "model": "MA4-U92-65",
+    "createdAt": "2026-07-06T20:22:55.311877Z"
+  },
+  {
+    "id": "2L1MD02297",
+    "name": "JUKI LK1903BN",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LK1903BN",
+    "createdAt": "2026-07-06T20:22:55.311892Z"
+  },
+  {
+    "id": "24094504952",
+    "name": "JACK JK-T179065-1-D",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "JK-T179065-1-D",
+    "createdAt": "2026-07-06T20:22:55.311909Z"
+  },
+  {
+    "id": "8DOMF02060",
+    "name": "JUKI DDL9000C",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DDL9000C",
+    "createdAt": "2026-07-06T20:22:55.311924Z"
+  },
+  {
+    "id": "919Y024967",
+    "name": "SIRUBA DL7200-NMI-16",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200-NMI-16",
+    "createdAt": "2026-07-06T20:22:55.311940Z"
+  },
+  {
+    "id": "2DDYA07984",
+    "name": "juki DDL9000B-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL9000B-55",
+    "createdAt": "2026-07-06T20:22:55.311955Z"
+  },
+  {
+    "id": "8DO6F12280",
+    "name": "juki DDL9000B-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL9000B-55",
+    "createdAt": "2026-07-06T20:22:55.311970Z"
+  },
+  {
+    "id": "DDLTH11216",
+    "name": "juki DDL5550-6",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL5550-6",
+    "createdAt": "2026-07-06T20:22:55.311985Z"
+  },
+  {
+    "id": "X89018133",
+    "name": "SIRUBA DL7200-NMI-16",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200-NMI-16",
+    "createdAt": "2026-07-06T20:22:55.312000Z"
+  },
+  {
+    "id": "218K004511",
+    "name": "SIRUBA 757KT-516M",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "757KT-516M",
+    "createdAt": "2026-07-06T20:22:55.312016Z"
+  },
+  {
+    "id": "8DO6E12266",
+    "name": "juki DDL-9000B-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL-9000B-55",
+    "createdAt": "2026-07-06T20:22:55.312031Z"
+  },
+  {
+    "id": "DDLAE25313",
+    "name": "juki DDL-5550N-7",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL-5550N-7",
+    "createdAt": "2026-07-06T20:22:55.312048Z"
+  },
+  {
+    "id": "MZNPL9-000269",
+    "name": "juki DDL9000B-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL9000B-55",
+    "createdAt": "2026-07-06T20:22:55.312064Z"
+  },
+  {
+    "id": "2D3EH00345",
+    "name": "juki DLN9010A-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN9010A-55",
+    "createdAt": "2026-07-06T20:22:55.312079Z"
+  },
+  {
+    "id": "PTX-PL1-001067",
+    "name": "SIRUBA DL7200B-BM-I",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200B-BM-I",
+    "createdAt": "2026-07-06T20:22:55.312095Z"
+  },
+  {
+    "id": "8DOFM21209",
+    "name": "juki DDL9000B-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL9000B-55",
+    "createdAt": "2026-07-06T20:22:55.312110Z"
+  },
+  {
+    "id": "MONZ-HUGO-0003",
+    "name": "juki DDL9000B-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL9000B-55",
+    "createdAt": "2026-07-06T20:22:55.312130Z"
+  },
+  {
+    "id": "211HJ02001",
+    "name": "juki LK1903B-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "LK1903B-55",
+    "createdAt": "2026-07-06T20:22:55.312145Z"
+  },
+  {
+    "id": "21DFG00615",
+    "name": "juki LBH1790-5",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "LBH1790-5",
+    "createdAt": "2026-07-06T20:22:55.312160Z"
+  },
+  {
+    "id": "2L0EBOO833",
+    "name": "Juki LBH-17905",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH-17905",
+    "createdAt": "2026-07-06T20:22:55.312201Z"
+  },
+  {
+    "id": "2LOEM00515",
+    "name": "Juki LBH-17905",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH-17905",
+    "createdAt": "2026-07-06T20:22:55.312220Z"
+  },
+  {
+    "id": "505418",
+    "name": "N/D N/D",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "N/D",
+    "model": "N/D",
+    "createdAt": "2026-07-06T20:22:55.312235Z"
+  },
+  {
+    "id": "M2NPL1-000202",
+    "name": "Juki 5410-6",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "5410-6",
+    "createdAt": "2026-07-06T20:22:55.312252Z"
+  },
+  {
+    "id": "2D3EH00352",
+    "name": "N/D N/D",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "N/D",
+    "model": "N/D",
+    "createdAt": "2026-07-06T20:22:55.312267Z"
+  },
+  {
+    "id": "515-E32-4030",
+    "name": "JUKI DLN-9010",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN-9010",
+    "createdAt": "2026-07-06T20:22:55.312299Z"
+  },
+  {
+    "id": "MONZ-HUGO-0004",
+    "name": "Willcox & Gibbs 355-5XS",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Willcox & Gibbs",
+    "model": "355-5XS",
+    "createdAt": "2026-07-06T20:22:55.312319Z"
+  },
+  {
+    "id": "DLNXA20771",
+    "name": "JUKI DLN-52110-6",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN-52110-6",
+    "createdAt": "2026-07-06T20:22:55.312334Z"
+  },
+  {
+    "id": "506180",
+    "name": "JUKI DLN-5410-7",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN-5410-7",
+    "createdAt": "2026-07-06T20:22:55.312349Z"
+  },
+  {
+    "id": "505740",
+    "name": "Juki DLN-5410-6",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.312364Z"
+  },
+  {
+    "id": "2D3GCOO297",
+    "name": "Juki DNL-5410-6",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DNL-5410-6",
+    "createdAt": "2026-07-06T20:22:55.312380Z"
+  },
+  {
+    "id": "DLNUH06481",
+    "name": "Juki DLN-9010A",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A",
+    "createdAt": "2026-07-06T20:22:55.312395Z"
+  },
+  {
+    "id": "502225",
+    "name": "Juki MA4-9265-5",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "MA4-9265-5",
+    "createdAt": "2026-07-06T20:22:55.312412Z"
+  },
+  {
+    "id": "2D3EH00348",
+    "name": "Juki DLN-5410-6",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.312428Z"
+  },
+  {
+    "id": "PTX-PL2-000115",
+    "name": "Juki DLN-5410-6",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.312444Z"
+  },
+  {
+    "id": "DLNUH06479",
+    "name": "Brother DLN-9010-ASS",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Brother",
+    "model": "DLN-9010-ASS",
+    "createdAt": "2026-07-06T20:22:55.312460Z"
+  },
+  {
+    "id": "505054",
+    "name": "Juki CP-311",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "CP-311",
+    "createdAt": "2026-07-06T20:22:55.312475Z"
+  },
+  {
+    "id": "2D3MF00063",
+    "name": "Juki DL7200-BM1",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DL7200-BM1",
+    "createdAt": "2026-07-06T20:22:55.312490Z"
+  },
+  {
+    "id": "ND",
+    "name": "Juki DLN-9010-ASS",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010-ASS",
+    "createdAt": "2026-07-06T20:22:55.312504Z"
+  },
+  {
+    "id": "X40024468",
+    "name": "LUNA PRESS CP-311",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "LUNA PRESS",
+    "model": "CP-311",
+    "createdAt": "2026-07-06T20:22:55.312519Z"
+  },
+  {
+    "id": "DLNVKL3075",
+    "name": "Siruba DL-7200-BMI",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL-7200-BMI",
+    "createdAt": "2026-07-06T20:22:55.312538Z"
+  },
+  {
+    "id": "2D3EH00347",
+    "name": "JUKI DLN5410-6",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN5410-6",
+    "createdAt": "2026-07-06T20:22:55.312553Z"
+  },
+  {
+    "id": "MONZ-HUGO-0005",
+    "name": "Juki DLN-9010A-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.312571Z"
+  },
+  {
+    "id": "8DOF521632",
+    "name": "LUNA PRESS T323",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "LUNA PRESS",
+    "model": "T323",
+    "createdAt": "2026-07-06T20:22:55.312587Z"
+  },
+  {
+    "id": "261568514",
+    "name": "JUKI DDL-9000B-SS",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.312603Z"
+  },
+  {
+    "id": "335-5X5",
+    "name": "ADLER 261",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "ADLER",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.312621Z"
+  },
+  {
+    "id": "211HJ02638",
+    "name": "Willcox & Gibbs 515-E32-450",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Willcox & Gibbs",
+    "model": "515-E32-450",
+    "createdAt": "2026-07-06T20:22:55.312636Z"
+  },
+  {
+    "id": "230772053",
+    "name": "Juki LK-1903B-55",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LK-1903B-55",
+    "createdAt": "2026-07-06T20:22:55.312651Z"
+  },
+  {
+    "id": "919Y024968",
+    "name": "Siruba LBH5-17905",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "LBH5-17905",
+    "createdAt": "2026-07-06T20:22:55.312667Z"
+  },
+  {
+    "id": "8DOEG11921",
+    "name": "Siruba DL7200",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200",
+    "createdAt": "2026-07-06T20:22:55.312682Z"
+  },
+  {
+    "id": "2D3JH00042",
+    "name": "Juki DDL-9000",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000",
+    "createdAt": "2026-07-06T20:22:55.312697Z"
+  },
+  {
+    "id": "2LOFK00200",
+    "name": "Juki DLN-9010",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010",
+    "createdAt": "2026-07-06T20:22:55.312712Z"
+  },
+  {
+    "id": "2L1HJO1996",
+    "name": "Juki LBH-17905",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH-17905",
+    "createdAt": "2026-07-06T20:22:55.312727Z"
+  },
+  {
+    "id": "MONZ-HUGO-0006",
+    "name": "Juki LK-19031B",
+    "area": "Hugo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LK-19031B",
+    "createdAt": "2026-07-06T20:22:55.312746Z"
+  },
+  {
+    "id": "8L3NE00713",
+    "name": "juki LH358A-7",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "LH358A-7",
+    "createdAt": "2026-07-06T20:22:55.313518Z"
+  },
+  {
+    "id": "MONZ-MTM-0007",
+    "name": "juki DLN5410-6",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN5410-6",
+    "createdAt": "2026-07-06T20:22:55.313541Z"
+  },
+  {
+    "id": "505150",
+    "name": "juki DLN5410-6",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN5410-6",
+    "createdAt": "2026-07-06T20:22:55.313560Z"
+  },
+  {
+    "id": "2D3MF00061",
+    "name": "juki DLN-9010A-55",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.313576Z"
+  },
+  {
+    "id": "505385",
+    "name": "juki DLN5410-6",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN5410-6",
+    "createdAt": "2026-07-06T20:22:55.313591Z"
+  },
+  {
+    "id": "DLNTJ01534",
+    "name": "juki DLN5410-6",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN5410-6",
+    "createdAt": "2026-07-06T20:22:55.313606Z"
+  },
+  {
+    "id": "2L1EG01994",
+    "name": "juki LK-1903A-55",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "LK-1903A-55",
+    "createdAt": "2026-07-06T20:22:55.313626Z"
+  },
+  {
+    "id": "2LDFK00201",
+    "name": "juki LBH-17905",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "LBH-17905",
+    "createdAt": "2026-07-06T20:22:55.313641Z"
+  },
+  {
+    "id": "179095240",
+    "name": "JACK T1790BK-IM",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "T1790BK-IM",
+    "createdAt": "2026-07-06T20:22:55.313657Z"
+  },
+  {
+    "id": "7607117",
+    "name": "WILCOX 515-E32-420",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "WILCOX",
+    "model": "515-E32-420",
+    "createdAt": "2026-07-06T20:22:55.313673Z"
+  },
+  {
+    "id": "919YO21297",
+    "name": "SIRUBA DL7200-NMI-16",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200-NMI-16",
+    "createdAt": "2026-07-06T20:22:55.313688Z"
+  },
+  {
+    "id": "1782907",
+    "name": "U. SPECIAL 56300",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.313703Z"
+  },
+  {
+    "id": "8DOFJ21717",
+    "name": "Juki DDL9000B-55",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL9000B-55",
+    "createdAt": "2026-07-06T20:22:55.313719Z"
+  },
+  {
+    "id": "1842000016",
+    "name": "SIRUBA A5001",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "A5001",
+    "createdAt": "2026-07-06T20:22:55.313735Z"
+  },
+  {
+    "id": "128361667",
+    "name": "SIRUBA DL7000-NMI-13",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7000-NMI-13",
+    "createdAt": "2026-07-06T20:22:55.313750Z"
+  },
+  {
+    "id": "1064843",
+    "name": "U. SPECIAL 56300",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.313765Z"
+  },
+  {
+    "id": "1075770",
+    "name": "U. SPECIAL 56300",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.313780Z"
+  },
+  {
+    "id": "2192000327",
+    "name": "SIRUBA 747LD-514",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "747LD-514",
+    "createdAt": "2026-07-06T20:22:55.313796Z"
+  },
+  {
+    "id": "9194024966",
+    "name": "SIRUBA DL7200",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200",
+    "createdAt": "2026-07-06T20:22:55.313813Z"
+  },
+  {
+    "id": "1299960",
+    "name": "U. SPECIAL 54400",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "54400",
+    "createdAt": "2026-07-06T20:22:55.313838Z"
+  },
+  {
+    "id": "MZN-PL1-000510",
+    "name": "U. SPECIAL 54400",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "54400",
+    "createdAt": "2026-07-06T20:22:55.313861Z"
+  },
+  {
+    "id": "2LOEG00610",
+    "name": "juki LBH17905",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "LBH17905",
+    "createdAt": "2026-07-06T20:22:55.313944Z"
+  },
+  {
+    "id": "8D3JH00036",
+    "name": "juki DLN-9010A-55",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.313962Z"
+  },
+  {
+    "id": "DLNWJL13010",
+    "name": "juki DLN5410-6",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN5410-6",
+    "createdAt": "2026-07-06T20:22:55.313977Z"
+  },
+  {
+    "id": "2LOFM00513",
+    "name": "juki 2BH1790-5",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "2BH1790-5",
+    "createdAt": "2026-07-06T20:22:55.313992Z"
+  },
+  {
+    "id": "2L1MF00185",
+    "name": "juki LK-1903BN",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "LK-1903BN",
+    "createdAt": "2026-07-06T20:22:55.314011Z"
+  },
+  {
+    "id": "2D3GF00051",
+    "name": "juki DLN-9010A-55",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.314026Z"
+  },
+  {
+    "id": "505377",
+    "name": "Juki LN5410-6",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LN5410-6",
+    "createdAt": "2026-07-06T20:22:55.314041Z"
+  },
+  {
+    "id": "DDLVL67713",
+    "name": "juki DDL-5550-6",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL-5550-6",
+    "createdAt": "2026-07-06T20:22:55.314057Z"
+  },
+  {
+    "id": "K4518380",
+    "name": "BROTHER MA4-V92",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "BROTHER",
+    "model": "MA4-V92",
+    "createdAt": "2026-07-06T20:22:55.314072Z"
+  },
+  {
+    "id": "22054558118",
+    "name": "JAK A6F-E",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "JAK",
+    "model": "A6F-E",
+    "createdAt": "2026-07-06T20:22:55.314090Z"
+  },
+  {
+    "id": "2D3MF00126",
+    "name": "juki DLN9010A-55",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN9010A-55",
+    "createdAt": "2026-07-06T20:22:55.314105Z"
+  },
+  {
+    "id": "2D3MF-00059",
+    "name": "juki DLN9010A-55",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN9010A-55",
+    "createdAt": "2026-07-06T20:22:55.314120Z"
+  },
+  {
+    "id": "2D3MF-00121",
+    "name": "juki DLN9010A-55",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN9010A-55",
+    "createdAt": "2026-07-06T20:22:55.314135Z"
+  },
+  {
+    "id": "1389775",
+    "name": "U. SPECIAL 56400",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.314151Z"
+  },
+  {
+    "id": "1491104",
+    "name": "U. SPECIAL 56400",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.314166Z"
+  },
+  {
+    "id": "219L000392",
+    "name": "SIRUBA 747514M-3",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "747514M-3",
+    "createdAt": "2026-07-06T20:22:55.314182Z"
+  },
+  {
+    "id": "1502967290",
+    "name": "JACK JK-T1900BJK",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "JK-T1900BJK",
+    "createdAt": "2026-07-06T20:22:55.314197Z"
+  },
+  {
+    "id": "1298434",
+    "name": "U. SPECIAL 56300",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "U. SPECIAL",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.314212Z"
+  },
+  {
+    "id": "8643023",
+    "name": "WILLCOX 515-E32",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "WILLCOX",
+    "model": "515-E32",
+    "createdAt": "2026-07-06T20:22:55.314227Z"
+  },
+  {
+    "id": "8MOKA02803",
+    "name": "juki M06716",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "M06716",
+    "createdAt": "2026-07-06T20:22:55.314245Z"
+  },
+  {
+    "id": "2D3MF00124",
+    "name": "juki DLN9010A-55",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN9010A-55",
+    "createdAt": "2026-07-06T20:22:55.314261Z"
+  },
+  {
+    "id": "2D3MA00107",
+    "name": "juki DLN9010A-55",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN9010A-55",
+    "createdAt": "2026-07-06T20:22:55.314277Z"
+  },
+  {
+    "id": "MONZ-MTM-0008",
+    "name": "juki MS-1190",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "MS-1190",
+    "createdAt": "2026-07-06T20:22:55.314297Z"
+  },
+  {
+    "id": "3M8MF00043",
+    "name": "juki MS-1190",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "MS-1190",
+    "createdAt": "2026-07-06T20:22:55.314313Z"
+  },
+  {
+    "id": "MONZ-MTM-0009",
+    "name": "juki DDL9000C",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL9000C",
+    "createdAt": "2026-07-06T20:22:55.314334Z"
+  },
+  {
+    "id": "8DOMDO5245",
+    "name": "juki DDL9000C",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL9000C",
+    "createdAt": "2026-07-06T20:22:55.314359Z"
+  },
+  {
+    "id": "2L1MD0086",
+    "name": "juki LK1903BN",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "LK1903BN",
+    "createdAt": "2026-07-06T20:22:55.314381Z"
+  },
+  {
+    "id": "2LOFJ00030",
+    "name": "juki LBH17905",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "LBH17905",
+    "createdAt": "2026-07-06T20:22:55.314397Z"
+  },
+  {
+    "id": "2L1EH00026",
+    "name": "juki LK1903-55",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "LK1903-55",
+    "createdAt": "2026-07-06T20:22:55.314412Z"
+  },
+  {
+    "id": "2L3MF001023",
+    "name": "juki DLN9010A-55",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN9010A-55",
+    "createdAt": "2026-07-06T20:22:55.314427Z"
+  },
+  {
+    "id": "8DOMDO5262",
+    "name": "juki DDL9000C",
+    "area": "M.T.M",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL9000C",
+    "createdAt": "2026-07-06T20:22:55.314442Z"
+  },
+  {
+    "id": "MONZ-JOSE-0010",
+    "name": "SIRUBA LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.314914Z"
+  },
+  {
+    "id": "5406L5879",
+    "name": "DURKOPP 540-100",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "DURKOPP",
+    "model": "540-100",
+    "createdAt": "2026-07-06T20:22:55.314932Z"
+  },
+  {
+    "id": "MONZ-JOSE-0011",
+    "name": "SIRUBA LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.314952Z"
+  },
+  {
+    "id": "MONZ-JOSE-0012",
+    "name": "SIRUBA LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.314971Z"
+  },
+  {
+    "id": "219KOO2955",
+    "name": "SIRUBA LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.314986Z"
+  },
+  {
+    "id": "MONZ-JOSE-0013",
+    "name": "DURKOPP 540-100",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "DURKOPP",
+    "model": "540-100",
+    "createdAt": "2026-07-06T20:22:55.315005Z"
+  },
+  {
+    "id": "MONZ-JOSE-0014",
+    "name": "SIRUBA LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.315025Z"
+  },
+  {
+    "id": "MONZ-JOSE-0015",
+    "name": "SIRUBA LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.315076Z"
+  },
+  {
+    "id": "MONZ-JOSE-0016",
+    "name": "SIRUBA LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.315098Z"
+  },
+  {
+    "id": "MONZ-JOSE-0017",
+    "name": "SIRUBA LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.315117Z"
+  },
+  {
+    "id": "MONZ-JOSE-0018",
+    "name": "SIRUBA LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.315140Z"
+  },
+  {
+    "id": "5540606702",
+    "name": "DURKOPP 546-100",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "DURKOPP",
+    "model": "546-100",
+    "createdAt": "2026-07-06T20:22:55.315157Z"
+  },
+  {
+    "id": "MONZ-JOSE-0019",
+    "name": "SIRUBA LBH-1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "LBH-1790",
+    "createdAt": "2026-07-06T20:22:55.315179Z"
+  },
+  {
+    "id": "540613508",
+    "name": "DURKOPP 546-100",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "DURKOPP",
+    "model": "546-100",
+    "createdAt": "2026-07-06T20:22:55.315195Z"
+  },
+  {
+    "id": "MONZ-JOSE-0020",
+    "name": "SIRUBA LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.315214Z"
+  },
+  {
+    "id": "MONZ-JOSE-0021",
+    "name": "SIRUBA LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.315233Z"
+  },
+  {
+    "id": "2L0E600620",
+    "name": "Juki LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.315248Z"
+  },
+  {
+    "id": "219KOO2716",
+    "name": "SIRUBA LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.315263Z"
+  },
+  {
+    "id": "2LOF100159",
+    "name": "Juki LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.315279Z"
+  },
+  {
+    "id": "170490450",
+    "name": "JACK JKT1790BK",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "JKT1790BK",
+    "createdAt": "2026-07-06T20:22:55.315294Z"
+  },
+  {
+    "id": "LBH-1790",
+    "name": "JACK JK.140996620",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "JK.140996620",
+    "createdAt": "2026-07-06T20:22:55.315309Z"
+  },
+  {
+    "id": "2LOL000148",
+    "name": "JACK JKT1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "JKT1790",
+    "createdAt": "2026-07-06T20:22:55.315324Z"
+  },
+  {
+    "id": "2LOM600502",
+    "name": "Juki LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.315340Z"
+  },
+  {
+    "id": "219KOO2681",
+    "name": "SIRUBA LBH1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "LBH1790",
+    "createdAt": "2026-07-06T20:22:55.315355Z"
+  },
+  {
+    "id": "1460195362",
+    "name": "JACK JKT1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "JKT1790",
+    "createdAt": "2026-07-06T20:22:55.315372Z"
+  },
+  {
+    "id": "176390516",
+    "name": "JACK JKT1790",
+    "area": "Jose Navallo",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "JKT1790",
+    "createdAt": "2026-07-06T20:22:55.315387Z"
+  },
+  {
+    "id": "DLNUL06513",
+    "name": "juki DLN-5410-6",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.315812Z"
+  },
+  {
+    "id": "DLNAB36570",
+    "name": "juki DLN-5410-7",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN-5410-7",
+    "createdAt": "2026-07-06T20:22:55.315830Z"
+  },
+  {
+    "id": "X89018139",
+    "name": "siruba DL7200",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "siruba",
+    "model": "DL7200",
+    "createdAt": "2026-07-06T20:22:55.315878Z"
+  },
+  {
+    "id": "919Y021308",
+    "name": "siruba DL7200",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "siruba",
+    "model": "DL7200",
+    "createdAt": "2026-07-06T20:22:55.315896Z"
+  },
+  {
+    "id": "DLNUJ07127",
+    "name": "juki DLN5410-6",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN5410-6",
+    "createdAt": "2026-07-06T20:22:55.315912Z"
+  },
+  {
+    "id": "505749",
+    "name": "juki DLN5410-6",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN5410-6",
+    "createdAt": "2026-07-06T20:22:55.315944Z"
+  },
+  {
+    "id": "DLNWC16144",
+    "name": "juki DLN5410-6",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DLN5410-6",
+    "createdAt": "2026-07-06T20:22:55.315963Z"
+  },
+  {
+    "id": "920Y003814",
+    "name": "siruba DL7200",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "siruba",
+    "model": "DL7200",
+    "createdAt": "2026-07-06T20:22:55.315979Z"
+  },
+  {
+    "id": "MHOWB03708",
+    "name": "juki MH380",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "MH380",
+    "createdAt": "2026-07-06T20:22:55.315995Z"
+  },
+  {
+    "id": "1589794",
+    "name": "u. special 56400",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "u. special",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.316010Z"
+  },
+  {
+    "id": "1769336",
+    "name": "u. special 56400",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "u. special",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.316025Z"
+  },
+  {
+    "id": "8DOFJ21531",
+    "name": "Juki DDL9000",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL9000",
+    "createdAt": "2026-07-06T20:22:55.316041Z"
+  },
+  {
+    "id": "8DONF02456",
+    "name": "Juki DDL8000A",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL8000A",
+    "createdAt": "2026-07-06T20:22:55.316055Z"
+  },
+  {
+    "id": "2D3JL00106",
+    "name": "juki 9010",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "9010",
+    "createdAt": "2026-07-06T20:22:55.316073Z"
+  },
+  {
+    "id": "8DOHH061221",
+    "name": "juki DDL9000",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL9000",
+    "createdAt": "2026-07-06T20:22:55.316088Z"
+  },
+  {
+    "id": "X890150921",
+    "name": "siruba DL7200",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "siruba",
+    "model": "DL7200",
+    "createdAt": "2026-07-06T20:22:55.316103Z"
+  },
+  {
+    "id": "8DOF52696",
+    "name": "juki DDL9000",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL9000",
+    "createdAt": "2026-07-06T20:22:55.316118Z"
+  },
+  {
+    "id": "DL7200",
+    "name": "siruba 92070161156",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "siruba",
+    "model": "92070161156",
+    "createdAt": "2026-07-06T20:22:55.316133Z"
+  },
+  {
+    "id": "X89018117",
+    "name": "siruba DL7200",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "siruba",
+    "model": "DL7200",
+    "createdAt": "2026-07-06T20:22:55.316147Z"
+  },
+  {
+    "id": "1761",
+    "name": "juki 2207451653",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "2207451653",
+    "createdAt": "2026-07-06T20:22:55.316162Z"
+  },
+  {
+    "id": "2L4EH00350",
+    "name": "juki 9010",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "9010",
+    "createdAt": "2026-07-06T20:22:55.316181Z"
+  },
+  {
+    "id": "2D3MF00065",
+    "name": "juki 9010",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "9010",
+    "createdAt": "2026-07-06T20:22:55.316196Z"
+  },
+  {
+    "id": "C8561106",
+    "name": "Brother DB2-B791",
+    "area": "Jose Montes T. P.",
+    "status": "Operando",
+    "brand": "Brother",
+    "model": "DB2-B791",
+    "createdAt": "2026-07-06T20:22:55.316211Z"
+  },
+  {
+    "id": "T06572",
+    "name": "juki 5410-6",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "5410-6",
+    "createdAt": "2026-07-06T20:22:55.316751Z"
+  },
+  {
+    "id": "505394",
+    "name": "juki 5410-6",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "5410-6",
+    "createdAt": "2026-07-06T20:22:55.316768Z"
+  },
+  {
+    "id": "505766",
+    "name": "juki 5410-6",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "5410-6",
+    "createdAt": "2026-07-06T20:22:55.316786Z"
+  },
+  {
+    "id": "MONZ-MANG-0022",
+    "name": "juki DNWT20212",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DNWT20212",
+    "createdAt": "2026-07-06T20:22:55.316808Z"
+  },
+  {
+    "id": "502249",
+    "name": "juki 5410-6",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "5410-6",
+    "createdAt": "2026-07-06T20:22:55.316823Z"
+  },
+  {
+    "id": "505411",
+    "name": "juki 5410-6",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "5410-6",
+    "createdAt": "2026-07-06T20:22:55.316838Z"
+  },
+  {
+    "id": "505376",
+    "name": "juki 5410-6",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "5410-6",
+    "createdAt": "2026-07-06T20:22:55.316853Z"
+  },
+  {
+    "id": "DLNUJ06944",
+    "name": "juki 5410-6",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "5410-6",
+    "createdAt": "2026-07-06T20:22:55.316868Z"
+  },
+  {
+    "id": "904246",
+    "name": "juki 5410-6",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "5410-6",
+    "createdAt": "2026-07-06T20:22:55.316883Z"
+  },
+  {
+    "id": "MONZ-MANG-0023",
+    "name": "juki 5410-6",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "5410-6",
+    "createdAt": "2026-07-06T20:22:55.316908Z"
+  },
+  {
+    "id": "MONZ-MANG-0024",
+    "name": "Juki DDL9000C",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL9000C",
+    "createdAt": "2026-07-06T20:22:55.316928Z"
+  },
+  {
+    "id": "8DOH202171",
+    "name": "Juki DDL9000C",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL9000C",
+    "createdAt": "2026-07-06T20:22:55.317199Z"
+  },
+  {
+    "id": "8DOFJ21557",
+    "name": "Juki DDL9000C",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL9000C",
+    "createdAt": "2026-07-06T20:22:55.317244Z"
+  },
+  {
+    "id": "XDJ21552",
+    "name": "juki DDL9000",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL9000",
+    "createdAt": "2026-07-06T20:22:55.317265Z"
+  },
+  {
+    "id": "8DOOJ21607",
+    "name": "juki DDL9000",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "DDL9000",
+    "createdAt": "2026-07-06T20:22:55.317286Z"
+  },
+  {
+    "id": "8DOOOG31633",
+    "name": "siruba DL7200",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "siruba",
+    "model": "DL7200",
+    "createdAt": "2026-07-06T20:22:55.317308Z"
+  },
+  {
+    "id": "920Y003805",
+    "name": "Juki DDL9000C",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL9000C",
+    "createdAt": "2026-07-06T20:22:55.317335Z"
+  },
+  {
+    "id": "8DO0611929",
+    "name": "Juki DDL9000A",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL9000A",
+    "createdAt": "2026-07-06T20:22:55.317361Z"
+  },
+  {
+    "id": "8DO0531013",
+    "name": "Juki DDL9000",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL9000",
+    "createdAt": "2026-07-06T20:22:55.317383Z"
+  },
+  {
+    "id": "X89015099",
+    "name": "Juki DDL9000",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL9000",
+    "createdAt": "2026-07-06T20:22:55.317496Z"
+  },
+  {
+    "id": "5972956",
+    "name": "singer 261",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "singer",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.317528Z"
+  },
+  {
+    "id": "5921729",
+    "name": "singer 261",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "singer",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.317554Z"
+  },
+  {
+    "id": "5992808",
+    "name": "singer 261",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "singer",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.317592Z"
+  },
+  {
+    "id": "5950251",
+    "name": "singer 261",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "singer",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.317668Z"
+  },
+  {
+    "id": "5972208",
+    "name": "singer 261",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "singer",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.317713Z"
+  },
+  {
+    "id": "5972204",
+    "name": "singer 261",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "singer",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.317744Z"
+  },
+  {
+    "id": "5992825",
+    "name": "singer 261",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "singer",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.317782Z"
+  },
+  {
+    "id": "3M8M100044",
+    "name": "jki M51190",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "jki",
+    "model": "M51190",
+    "createdAt": "2026-07-06T20:22:55.317809Z"
+  },
+  {
+    "id": "5924440",
+    "name": "singer 592 761",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "singer",
+    "model": "592 761",
+    "createdAt": "2026-07-06T20:22:55.317834Z"
+  },
+  {
+    "id": "5001619",
+    "name": "singer 261",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "singer",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.317860Z"
+  },
+  {
+    "id": "5924914",
+    "name": "singer 261",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "singer",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.317884Z"
+  },
+  {
+    "id": "3M8R00032",
+    "name": "juki M51190",
+    "area": "Mangas Tomas Pink",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "M51190",
+    "createdAt": "2026-07-06T20:22:55.317908Z"
+  },
+  {
+    "id": "2L0FK00202",
+    "name": "Juki LBH-1790S",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH-1790S",
+    "createdAt": "2026-07-06T20:22:55.319617Z"
+  },
+  {
+    "id": "2L1HJ02636",
+    "name": "Juki LK-1903B-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LK-1903B-SS",
+    "createdAt": "2026-07-06T20:22:55.319667Z"
+  },
+  {
+    "id": "230772178",
+    "name": "Siruba LBH5-1790S",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "LBH5-1790S",
+    "createdAt": "2026-07-06T20:22:55.319707Z"
+  },
+  {
+    "id": "2L1DG00794",
+    "name": "Juki LK-1903A-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LK-1903A-SS",
+    "createdAt": "2026-07-06T20:22:55.319732Z"
+  },
+  {
+    "id": "2L0FM00510",
+    "name": "Juki LBH-1790S",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH-1790S",
+    "createdAt": "2026-07-06T20:22:55.319756Z"
+  },
+  {
+    "id": "2L1HK01241",
+    "name": "Juki LK-1903B-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LK-1903B-SS",
+    "createdAt": "2026-07-06T20:22:55.319787Z"
+  },
+  {
+    "id": "502176",
+    "name": "Juki DLN-5410-6",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.319811Z"
+  },
+  {
+    "id": "2D0XE02668",
+    "name": "Juki DDL-9000SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000SS",
+    "createdAt": "2026-07-06T20:22:55.319835Z"
+  },
+  {
+    "id": "2D0XF01360",
+    "name": "Juki DDL-9000SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000SS",
+    "createdAt": "2026-07-06T20:22:55.319857Z"
+  },
+  {
+    "id": "DLNTH01107",
+    "name": "Juki DLN-5410-6",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.319889Z"
+  },
+  {
+    "id": "502246",
+    "name": "Juki DLN-5410-6",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.319911Z"
+  },
+  {
+    "id": "X89018122",
+    "name": "Siruba DL7200-NM1-16",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200-NM1-16",
+    "createdAt": "2026-07-06T20:22:55.319934Z"
+  },
+  {
+    "id": "DLNVG12194",
+    "name": "Juki DLN-5410-6",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.319958Z"
+  },
+  {
+    "id": "X89017202",
+    "name": "Siruba DL7200-NM1-16",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200-NM1-16",
+    "createdAt": "2026-07-06T20:22:55.319981Z"
+  },
+  {
+    "id": "505298",
+    "name": "Juki DLN-5410-6",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.320003Z"
+  },
+  {
+    "id": "TLNXA20794",
+    "name": "Juki DLN-5410N-7",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410N-7",
+    "createdAt": "2026-07-06T20:22:55.320027Z"
+  },
+  {
+    "id": "DLNAB36468",
+    "name": "Juki DLN-5410N-7",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410N-7",
+    "createdAt": "2026-07-06T20:22:55.320049Z"
+  },
+  {
+    "id": "919Y021310",
+    "name": "Siruba DL7200-NM1-16",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200-NM1-16",
+    "createdAt": "2026-07-06T20:22:55.320073Z"
+  },
+  {
+    "id": "504707",
+    "name": "Juki DLN-5410-6",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.320094Z"
+  },
+  {
+    "id": "504773",
+    "name": "Juki DLN-5410-6",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.320116Z"
+  },
+  {
+    "id": "919Y024964",
+    "name": "Siruba DL7200-NM1-16",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200-NM1-16",
+    "createdAt": "2026-07-06T20:22:55.320140Z"
+  },
+  {
+    "id": "919Y021296",
+    "name": "Siruba DL7200-NM1-16",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200-NM1-16",
+    "createdAt": "2026-07-06T20:22:55.320163Z"
+  },
+  {
+    "id": "DLNUM08745",
+    "name": "Juki DLN-5410-6",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.320187Z"
+  },
+  {
+    "id": "2D3MF00131",
+    "name": "Juki DLN-9010A-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-SS",
+    "createdAt": "2026-07-06T20:22:55.320210Z"
+  },
+  {
+    "id": "920Y003869",
+    "name": "Siruba DL7200-BM1-16",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200-BM1-16",
+    "createdAt": "2026-07-06T20:22:55.320233Z"
+  },
+  {
+    "id": "8D0FJ21770",
+    "name": "Juki DDL-9000B-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.320255Z"
+  },
+  {
+    "id": "8D0HL02173",
+    "name": "Juki DDL-9000B-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.320278Z"
+  },
+  {
+    "id": "8D0FM21205",
+    "name": "Juki DDL-9000B-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.320301Z"
+  },
+  {
+    "id": "DDLUH15973",
+    "name": "Juki DDL-5550-6",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-5550-6",
+    "createdAt": "2026-07-06T20:22:55.320324Z"
+  },
+  {
+    "id": "8D0HH06117",
+    "name": "Juki DDL-9000B-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.320351Z"
+  },
+  {
+    "id": "2D3MF00068",
+    "name": "Juki DLN-9010A-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-SS",
+    "createdAt": "2026-07-06T20:22:55.320374Z"
+  },
+  {
+    "id": "800FJ21704",
+    "name": "Juki DDL-9000B-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.320397Z"
+  },
+  {
+    "id": "0261568405",
+    "name": "Durkopp Adler 261",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Durkopp Adler",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.320421Z"
+  },
+  {
+    "id": "920Y006443",
+    "name": "Siruba DL7200-BM1-16",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200-BM1-16",
+    "createdAt": "2026-07-06T20:22:55.320445Z"
+  },
+  {
+    "id": "0261568489",
+    "name": "Durkopp Adler 261",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Durkopp Adler",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.320467Z"
+  },
+  {
+    "id": "920Y006444",
+    "name": "Siruba DL7200-BM1-16",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200-BM1-16",
+    "createdAt": "2026-07-06T20:22:55.320491Z"
+  },
+  {
+    "id": "0261568515",
+    "name": "Durkopp Adler 261",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Durkopp Adler",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.320514Z"
+  },
+  {
+    "id": "8D0HL02172",
+    "name": "Juki DDL-9000B-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.320538Z"
+  },
+  {
+    "id": "920Y006425",
+    "name": "Siruba DL7200-BM1-16",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200-BM1-16",
+    "createdAt": "2026-07-06T20:22:55.320562Z"
+  },
+  {
+    "id": "2A3AB00092",
+    "name": "Juki AMS-210E",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "AMS-210E",
+    "createdAt": "2026-07-06T20:22:55.320586Z"
+  },
+  {
+    "id": "2A3AB00091",
+    "name": "Juki AMS-210E",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "AMS-210E",
+    "createdAt": "2026-07-06T20:22:55.320610Z"
+  },
+  {
+    "id": "2A3AB00097",
+    "name": "Juki AMS-210E",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "AMS-210E",
+    "createdAt": "2026-07-06T20:22:55.320633Z"
+  },
+  {
+    "id": "2A3DD00403",
+    "name": "Juki AMS-210E",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "AMS-210E",
+    "createdAt": "2026-07-06T20:22:55.320657Z"
+  },
+  {
+    "id": "DDLTM11150",
+    "name": "Juki DDL-5550-6",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-5550-6",
+    "createdAt": "2026-07-06T20:22:55.320680Z"
+  },
+  {
+    "id": "920Y003796",
+    "name": "Siruba DL7200-BM1-16",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200-BM1-16",
+    "createdAt": "2026-07-06T20:22:55.320704Z"
+  },
+  {
+    "id": "0261568412",
+    "name": "Durkopp Adler 261",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Durkopp Adler",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.320727Z"
+  },
+  {
+    "id": "8D0JA00218",
+    "name": "Juki DDL-9000A-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000A-SS",
+    "createdAt": "2026-07-06T20:22:55.320751Z"
+  },
+  {
+    "id": "F2555672",
+    "name": "Brother DB2-B791-413A",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Brother",
+    "model": "DB2-B791-413A",
+    "createdAt": "2026-07-06T20:22:55.320775Z"
+  },
+  {
+    "id": "150696145P",
+    "name": "Jack T1900BSK",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Jack",
+    "model": "T1900BSK",
+    "createdAt": "2026-07-06T20:22:55.320803Z"
+  },
+  {
+    "id": "150696149P",
+    "name": "Jack T1900BSK",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Jack",
+    "model": "T1900BSK",
+    "createdAt": "2026-07-06T20:22:55.320835Z"
+  },
+  {
+    "id": "150696163P",
+    "name": "Jack T1900BSK",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Jack",
+    "model": "T1900BSK",
+    "createdAt": "2026-07-06T20:22:55.320858Z"
+  },
+  {
+    "id": "M12073",
+    "name": "Taking 808",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Taking",
+    "model": "808",
+    "createdAt": "2026-07-06T20:22:55.320881Z"
+  },
+  {
+    "id": "M12072",
+    "name": "Taking 808",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Taking",
+    "model": "808",
+    "createdAt": "2026-07-06T20:22:55.320903Z"
+  },
+  {
+    "id": "2191000399",
+    "name": "Siruba 747 LD",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "747 LD",
+    "createdAt": "2026-07-06T20:22:55.320926Z"
+  },
+  {
+    "id": "L8526965",
+    "name": "Brother LT2-B842-905",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Brother",
+    "model": "LT2-B842-905",
+    "createdAt": "2026-07-06T20:22:55.320949Z"
+  },
+  {
+    "id": "8D0FM21192",
+    "name": "Juki DDL-9000B-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.320973Z"
+  },
+  {
+    "id": "8D0EC11163",
+    "name": "Juki DDL-9000B-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.320997Z"
+  },
+  {
+    "id": "2D3GF00052",
+    "name": "Juki DLN-9010A-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-SS",
+    "createdAt": "2026-07-06T20:22:55.321021Z"
+  },
+  {
+    "id": "8D0FM21188",
+    "name": "Juki DDL-9000B-SS",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.321044Z"
+  },
+  {
+    "id": "920Y006431",
+    "name": "Siruba DL7200-BM1-16",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200-BM1-16",
+    "createdAt": "2026-07-06T20:22:55.321068Z"
+  },
+  {
+    "id": "0261568408",
+    "name": "Durkopp Adler 261",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Durkopp Adler",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.321092Z"
+  },
+  {
+    "id": "505383",
+    "name": "Juki 5410-6",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "5410-6",
+    "createdAt": "2026-07-06T20:22:55.321121Z"
+  },
+  {
+    "id": "505159",
+    "name": "Juki 5410-6",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "5410-6",
+    "createdAt": "2026-07-06T20:22:55.321144Z"
+  },
+  {
+    "id": "2D36600303",
+    "name": "juki 9010",
+    "area": "Mangas",
+    "status": "Operando",
+    "brand": "juki",
+    "model": "9010",
+    "createdAt": "2026-07-06T20:22:55.321168Z"
+  },
+  {
+    "id": "535-329",
+    "name": "Adler 971",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Adler",
+    "model": "971",
+    "createdAt": "2026-07-06T20:22:55.322017Z"
+  },
+  {
+    "id": "494",
+    "name": "Adler 971",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Adler",
+    "model": "971",
+    "createdAt": "2026-07-06T20:22:55.322047Z"
+  },
+  {
+    "id": "410875",
+    "name": "Adler 991",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Adler",
+    "model": "991",
+    "createdAt": "2026-07-06T20:22:55.322073Z"
+  },
+  {
+    "id": "3459",
+    "name": "Adler 971",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Adler",
+    "model": "971",
+    "createdAt": "2026-07-06T20:22:55.322097Z"
+  },
+  {
+    "id": "0261568494",
+    "name": "Adler 261",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Adler",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.322129Z"
+  },
+  {
+    "id": "2D3GC00311",
+    "name": "Juki DLN 9010A",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN 9010A",
+    "createdAt": "2026-07-06T20:22:55.322155Z"
+  },
+  {
+    "id": "0261568401",
+    "name": "Adler 261",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Adler",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.322176Z"
+  },
+  {
+    "id": "8DOFM21193",
+    "name": "Juki DDL-9000 B",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000 B",
+    "createdAt": "2026-07-06T20:22:55.322219Z"
+  },
+  {
+    "id": "MZN-PL1-000425",
+    "name": "Lunapress CP 21.5 A",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Lunapress",
+    "model": "CP 21.5 A",
+    "createdAt": "2026-07-06T20:22:55.322275Z"
+  },
+  {
+    "id": "98002",
+    "name": "Lunapress CP 21.5 A",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Lunapress",
+    "model": "CP 21.5 A",
+    "createdAt": "2026-07-06T20:22:55.322327Z"
+  },
+  {
+    "id": "99609",
+    "name": "Mimi Industries CP 21.5 A",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Mimi Industries",
+    "model": "CP 21.5 A",
+    "createdAt": "2026-07-06T20:22:55.322349Z"
+  },
+  {
+    "id": "XS9018120",
+    "name": "Siruba DL 7200-NM1",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL 7200-NM1",
+    "createdAt": "2026-07-06T20:22:55.322370Z"
+  },
+  {
+    "id": "2L0M600579",
+    "name": "Juki LBH 1790 AN",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH 1790 AN",
+    "createdAt": "2026-07-06T20:22:55.322392Z"
+  },
+  {
+    "id": "2L1MF01515",
+    "name": "Juki LK1903BN",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LK1903BN",
+    "createdAt": "2026-07-06T20:22:55.322417Z"
+  },
+  {
+    "id": "2L1MF00882",
+    "name": "Juki LK-1903 BN",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LK-1903 BN",
+    "createdAt": "2026-07-06T20:22:55.322442Z"
+  },
+  {
+    "id": "2L0M600584",
+    "name": "Juki LBH 1790 AN",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH 1790 AN",
+    "createdAt": "2026-07-06T20:22:55.322467Z"
+  },
+  {
+    "id": "140995055",
+    "name": "Jack T190BK",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Jack",
+    "model": "T190BK",
+    "createdAt": "2026-07-06T20:22:55.322491Z"
+  },
+  {
+    "id": "140995956",
+    "name": "Jack T190BK",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Jack",
+    "model": "T190BK",
+    "createdAt": "2026-07-06T20:22:55.322517Z"
+  },
+  {
+    "id": "2L1HC01999",
+    "name": "Juki LK 1903",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LK 1903",
+    "createdAt": "2026-07-06T20:22:55.322542Z"
+  },
+  {
+    "id": "2L0FJ00314",
+    "name": "Juki LBH 1790 S",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH 1790 S",
+    "createdAt": "2026-07-06T20:22:55.322567Z"
+  },
+  {
+    "id": "2L0FM00204",
+    "name": "Juki LBH 1790 S",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH 1790 S",
+    "createdAt": "2026-07-06T20:22:55.322592Z"
+  },
+  {
+    "id": "2L1FE00622",
+    "name": "Juki LK 1903 AN",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LK 1903 AN",
+    "createdAt": "2026-07-06T20:22:55.322617Z"
+  },
+  {
+    "id": "DLNTH01166",
+    "name": "Juki DLN-5410-6",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.322643Z"
+  },
+  {
+    "id": "8DOHL02177",
+    "name": "Juki DDL-9000 B-SS",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000 B-SS",
+    "createdAt": "2026-07-06T20:22:55.322673Z"
+  },
+  {
+    "id": "823NA00429",
+    "name": "Juki LH-3528 A-7",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LH-3528 A-7",
+    "createdAt": "2026-07-06T20:22:55.322698Z"
+  },
+  {
+    "id": "JK584501-40",
+    "name": "Jack 58450 I",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Jack",
+    "model": "58450 I",
+    "createdAt": "2026-07-06T20:22:55.322720Z"
+  },
+  {
+    "id": "0225407",
+    "name": "Pegasus EX2241-02",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Pegasus",
+    "model": "EX2241-02",
+    "createdAt": "2026-07-06T20:22:55.322742Z"
+  },
+  {
+    "id": "039678-7",
+    "name": "Pegasus EX2241-02",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Pegasus",
+    "model": "EX2241-02",
+    "createdAt": "2026-07-06T20:22:55.322762Z"
+  },
+  {
+    "id": "152445",
+    "name": "Pfaff 5616-96/99",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Pfaff",
+    "model": "5616-96/99",
+    "createdAt": "2026-07-06T20:22:55.322784Z"
+  },
+  {
+    "id": "8DOEE31673",
+    "name": "Juki DDL-9000 B-SS",
+    "area": "Hector Fajardo",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000 B-SS",
+    "createdAt": "2026-07-06T20:22:55.322809Z"
+  },
+  {
+    "id": "219L000409",
+    "name": "Siruba 747LD-514M",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "747LD-514M",
+    "createdAt": "2026-07-06T20:22:55.325001Z"
+  },
+  {
+    "id": "MONZ-ENS1-0025",
+    "name": "Willcox & Gibbs 515-E32-430",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Willcox & Gibbs",
+    "model": "515-E32-430",
+    "createdAt": "2026-07-06T20:22:55.325042Z"
+  },
+  {
+    "id": "000646",
+    "name": "Brother MH4-V92-92-6",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Brother",
+    "model": "MH4-V92-92-6",
+    "createdAt": "2026-07-06T20:22:55.325066Z"
+  },
+  {
+    "id": "8746218",
+    "name": "Pegasus E32-434",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Pegasus",
+    "model": "E32-434",
+    "createdAt": "2026-07-06T20:22:55.325109Z"
+  },
+  {
+    "id": "208K004517",
+    "name": "Siruba 757KI-516M",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "757KI-516M",
+    "createdAt": "2026-07-06T20:22:55.325133Z"
+  },
+  {
+    "id": "MONZ-ENS1-0026",
+    "name": "Willcox & Gibbs 515-E32-430",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Willcox & Gibbs",
+    "model": "515-E32-430",
+    "createdAt": "2026-07-06T20:22:55.325159Z"
+  },
+  {
+    "id": "1427192",
+    "name": "Union Special 56300",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Union Special",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.325183Z"
+  },
+  {
+    "id": "1622356",
+    "name": "Union Special 56400",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Union Special",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.325205Z"
+  },
+  {
+    "id": "1742833",
+    "name": "Union Special 56300",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Union Special",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.325227Z"
+  },
+  {
+    "id": "1088368",
+    "name": "Union Special 56300",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Union Special",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.325250Z"
+  },
+  {
+    "id": "1160779",
+    "name": "Union Special 56300",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Union Special",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.325272Z"
+  },
+  {
+    "id": "1756251",
+    "name": "Union Special 56300",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Union Special",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.325294Z"
+  },
+  {
+    "id": "1572795",
+    "name": "Union Special 56300",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Union Special",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.325317Z"
+  },
+  {
+    "id": "1111231",
+    "name": "Union Special 56300",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Union Special",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.325344Z"
+  },
+  {
+    "id": "MHOWM06452",
+    "name": "Juki MH380",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "MH380",
+    "createdAt": "2026-07-06T20:22:55.325371Z"
+  },
+  {
+    "id": "MHOYL03378",
+    "name": "Juki MH380",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "MH380",
+    "createdAt": "2026-07-06T20:22:55.325395Z"
+  },
+  {
+    "id": "1748164",
+    "name": "Union Special 56400",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Union Special",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.325417Z"
+  },
+  {
+    "id": "150496327",
+    "name": "Jack 8558W-1",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Jack",
+    "model": "8558W-1",
+    "createdAt": "2026-07-06T20:22:55.325440Z"
+  },
+  {
+    "id": "1596864",
+    "name": "Union Special 56400",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Union Special",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.325463Z"
+  },
+  {
+    "id": "1262803",
+    "name": "Union Special 56400",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Union Special",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.325485Z"
+  },
+  {
+    "id": "985592",
+    "name": "Union Special 56400",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Union Special",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.325507Z"
+  },
+  {
+    "id": "1854965",
+    "name": "Union Special 56400",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Union Special",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.325529Z"
+  },
+  {
+    "id": "1595609",
+    "name": "Union Special 56400",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Union Special",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.325551Z"
+  },
+  {
+    "id": "1742835",
+    "name": "Union Special 56400",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Union Special",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.325574Z"
+  },
+  {
+    "id": "919Y021309",
+    "name": "Siruba DL7200",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200",
+    "createdAt": "2026-07-06T20:22:55.325597Z"
+  },
+  {
+    "id": "506206",
+    "name": "Juki 5410-6",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "5410-6",
+    "createdAt": "2026-07-06T20:22:55.325620Z"
+  },
+  {
+    "id": "919Y021295",
+    "name": "Siruba DL7200",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200",
+    "createdAt": "2026-07-06T20:22:55.325643Z"
+  },
+  {
+    "id": "2D3GF00048",
+    "name": "Juki DLN 9010",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN 9010",
+    "createdAt": "2026-07-06T20:22:55.325671Z"
+  },
+  {
+    "id": "2D3GF00046",
+    "name": "Juki DLN 9010",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN 9010",
+    "createdAt": "2026-07-06T20:22:55.325695Z"
+  },
+  {
+    "id": "504767",
+    "name": "Juki DLN5410-6",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN5410-6",
+    "createdAt": "2026-07-06T20:22:55.325717Z"
+  },
+  {
+    "id": "X89018144",
+    "name": "Siruba DL7200",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200",
+    "createdAt": "2026-07-06T20:22:55.325740Z"
+  },
+  {
+    "id": "DLNAB36586",
+    "name": "Juki DLN 5410-7",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN 5410-7",
+    "createdAt": "2026-07-06T20:22:55.325763Z"
+  },
+  {
+    "id": "919Y021292",
+    "name": "Siruba DL 7200",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL 7200",
+    "createdAt": "2026-07-06T20:22:55.325790Z"
+  },
+  {
+    "id": "2D3GC00309",
+    "name": "Juki DLN 9010",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN 9010",
+    "createdAt": "2026-07-06T20:22:55.325813Z"
+  },
+  {
+    "id": "2D3MF00123",
+    "name": "Juki DLN 9010",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN 9010",
+    "createdAt": "2026-07-06T20:22:55.325836Z"
+  },
+  {
+    "id": "919Y021299",
+    "name": "Siruba DL 7200",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL 7200",
+    "createdAt": "2026-07-06T20:22:55.325859Z"
+  },
+  {
+    "id": "X89018141",
+    "name": "Siruba DL 7200",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL 7200",
+    "createdAt": "2026-07-06T20:22:55.325882Z"
+  },
+  {
+    "id": "F2555680",
+    "name": "Brother B 791",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Brother",
+    "model": "B 791",
+    "createdAt": "2026-07-06T20:22:55.325904Z"
+  },
+  {
+    "id": "919Y024963",
+    "name": "Siruba DL 7200",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL 7200",
+    "createdAt": "2026-07-06T20:22:55.325928Z"
+  },
+  {
+    "id": "919Y021294",
+    "name": "Siruba DL 7200",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL 7200",
+    "createdAt": "2026-07-06T20:22:55.325951Z"
+  },
+  {
+    "id": "505149",
+    "name": "Juki DLN 5410-6",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN 5410-6",
+    "createdAt": "2026-07-06T20:22:55.325974Z"
+  },
+  {
+    "id": "505400",
+    "name": "Juki DLN 5410-6",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN 5410-6",
+    "createdAt": "2026-07-06T20:22:55.325996Z"
+  },
+  {
+    "id": "MONZ-ENS1-0027",
+    "name": "Siruba DL 7200",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL 7200",
+    "createdAt": "2026-07-06T20:22:55.326027Z"
+  },
+  {
+    "id": "DLNTL02079",
+    "name": "Juki DLN 5410-6",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN 5410-6",
+    "createdAt": "2026-07-06T20:22:55.326050Z"
+  },
+  {
+    "id": "X89018161",
+    "name": "Siruba DL 7200",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL 7200",
+    "createdAt": "2026-07-06T20:22:55.326073Z"
+  },
+  {
+    "id": "DLNUMC01046",
+    "name": "JUKI DLN-5410-6",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.326097Z"
+  },
+  {
+    "id": "919Y021306",
+    "name": "SIRUBA DL7200-NM1-10",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200-NM1-10",
+    "createdAt": "2026-07-06T20:22:55.326121Z"
+  },
+  {
+    "id": "380-T14155",
+    "name": "JUKI MH-380",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "MH-380",
+    "createdAt": "2026-07-06T20:22:55.326144Z"
+  },
+  {
+    "id": "MHOUE02961",
+    "name": "JUKI MH-380",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "MH-380",
+    "createdAt": "2026-07-06T20:22:55.326168Z"
+  },
+  {
+    "id": "MHOUE02987",
+    "name": "JUKI MH-380",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "MH-380",
+    "createdAt": "2026-07-06T20:22:55.326191Z"
+  },
+  {
+    "id": "MHOWK06122",
+    "name": "JUKI MH-380",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "MH-380",
+    "createdAt": "2026-07-06T20:22:55.326219Z"
+  },
+  {
+    "id": "504545",
+    "name": "ADLER 973",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "ADLER",
+    "model": "973",
+    "createdAt": "2026-07-06T20:22:55.326241Z"
+  },
+  {
+    "id": "503043",
+    "name": "ADLER 973",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "ADLER",
+    "model": "973",
+    "createdAt": "2026-07-06T20:22:55.326267Z"
+  },
+  {
+    "id": "458476",
+    "name": "ADLER 973",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "ADLER",
+    "model": "973",
+    "createdAt": "2026-07-06T20:22:55.326289Z"
+  },
+  {
+    "id": "418257",
+    "name": "ADLER 973",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "ADLER",
+    "model": "973",
+    "createdAt": "2026-07-06T20:22:55.326311Z"
+  },
+  {
+    "id": "519097",
+    "name": "ADLER 973",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "ADLER",
+    "model": "973",
+    "createdAt": "2026-07-06T20:22:55.326333Z"
+  },
+  {
+    "id": "MONZ-ENS1-0028",
+    "name": "LUNA PRESS CP-323-T",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "LUNA PRESS",
+    "model": "CP-323-T",
+    "createdAt": "2026-07-06T20:22:55.326362Z"
+  },
+  {
+    "id": "534945",
+    "name": "ADLER 396",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "ADLER",
+    "model": "396",
+    "createdAt": "2026-07-06T20:22:55.326385Z"
+  },
+  {
+    "id": "444277",
+    "name": "ADLER 396",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "ADLER",
+    "model": "396",
+    "createdAt": "2026-07-06T20:22:55.326407Z"
+  },
+  {
+    "id": "31393",
+    "name": "LUNA PRESS CP-323T",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "LUNA PRESS",
+    "model": "CP-323T",
+    "createdAt": "2026-07-06T20:22:55.326448Z"
+  },
+  {
+    "id": "526376",
+    "name": "ADLER 396",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "ADLER",
+    "model": "396",
+    "createdAt": "2026-07-06T20:22:55.326470Z"
+  },
+  {
+    "id": "MONZ-ENS1-0029",
+    "name": "LUNA PRESS CP-323T",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "LUNA PRESS",
+    "model": "CP-323T",
+    "createdAt": "2026-07-06T20:22:55.326499Z"
+  },
+  {
+    "id": "533921",
+    "name": "ADLER 396",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "ADLER",
+    "model": "396",
+    "createdAt": "2026-07-06T20:22:55.326522Z"
+  },
+  {
+    "id": "MONZ-ENS1-0030",
+    "name": "LUNA PRESS CP-323T",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "LUNA PRESS",
+    "model": "CP-323T",
+    "createdAt": "2026-07-06T20:22:55.326550Z"
+  },
+  {
+    "id": "313597",
+    "name": "LUNA PRESS CP-323S",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "LUNA PRESS",
+    "model": "CP-323S",
+    "createdAt": "2026-07-06T20:22:55.326572Z"
+  },
+  {
+    "id": "2027",
+    "name": "LUNA PRESS CP-311",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "LUNA PRESS",
+    "model": "CP-311",
+    "createdAt": "2026-07-06T20:22:55.326598Z"
+  },
+  {
+    "id": "919Y021307",
+    "name": "SIRUBA DL7200",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200",
+    "createdAt": "2026-07-06T20:22:55.326622Z"
+  },
+  {
+    "id": "8DOFJ21611",
+    "name": "JUKI DDL-9000B-SS",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.326646Z"
+  },
+  {
+    "id": "2D3CF00054",
+    "name": "JUKI DLN 9010",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN 9010",
+    "createdAt": "2026-07-06T20:22:55.326670Z"
+  },
+  {
+    "id": "919Y021304",
+    "name": "SIRUBA DL-7200-16",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL-7200-16",
+    "createdAt": "2026-07-06T20:22:55.326692Z"
+  },
+  {
+    "id": "2D3SF00057",
+    "name": "JUKI DLN-9010",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN-9010",
+    "createdAt": "2026-07-06T20:22:55.326716Z"
+  },
+  {
+    "id": "800FJ21742",
+    "name": "JUKI DDL-9000B-SS",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.326742Z"
+  },
+  {
+    "id": "919Y021300",
+    "name": "SIRUBA DL 7200",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL 7200",
+    "createdAt": "2026-07-06T20:22:55.326765Z"
+  },
+  {
+    "id": "505306",
+    "name": "JUKI DLN 5410",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN 5410",
+    "createdAt": "2026-07-06T20:22:55.326788Z"
+  },
+  {
+    "id": "2D3FC00291",
+    "name": "JUKI DLN 9010",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN 9010",
+    "createdAt": "2026-07-06T20:22:55.326812Z"
+  },
+  {
+    "id": "DLNWC16159",
+    "name": "JUKI DLN 5410",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN 5410",
+    "createdAt": "2026-07-06T20:22:55.326838Z"
+  },
+  {
+    "id": "MONZ-ENS1-0031",
+    "name": "Juki LBH-17905",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH-17905",
+    "createdAt": "2026-07-06T20:22:55.326869Z"
+  },
+  {
+    "id": "MONZ-ENS1-0032",
+    "name": "Juki LBH-17905",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH-17905",
+    "createdAt": "2026-07-06T20:22:55.326897Z"
+  },
+  {
+    "id": "MONZ-ENS1-0033",
+    "name": "N/D N/D",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "N/D",
+    "model": "N/D",
+    "createdAt": "2026-07-06T20:22:55.326927Z"
+  },
+  {
+    "id": "MONZ-ENS1-0034",
+    "name": "Juki 5410-6",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "5410-6",
+    "createdAt": "2026-07-06T20:22:55.326957Z"
+  },
+  {
+    "id": "MONZ-ENS1-0035",
+    "name": "N/D N/D",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "N/D",
+    "model": "N/D",
+    "createdAt": "2026-07-06T20:22:55.326986Z"
+  },
+  {
+    "id": "MONZ-ENS1-0036",
+    "name": "JUKI DLN-9010",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN-9010",
+    "createdAt": "2026-07-06T20:22:55.327015Z"
+  },
+  {
+    "id": "MONZ-ENS1-0037",
+    "name": "Willcox & Gibbs 355-5XS",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Willcox & Gibbs",
+    "model": "355-5XS",
+    "createdAt": "2026-07-06T20:22:55.327042Z"
+  },
+  {
+    "id": "MONZ-ENS1-0038",
+    "name": "JUKI DLN-52110-6",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN-52110-6",
+    "createdAt": "2026-07-06T20:22:55.327071Z"
+  },
+  {
+    "id": "MONZ-ENS1-0039",
+    "name": "JUKI DLN-5410-7",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN-5410-7",
+    "createdAt": "2026-07-06T20:22:55.327100Z"
+  },
+  {
+    "id": "MONZ-ENS1-0040",
+    "name": "Juki DLN-5410-6",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.327128Z"
+  },
+  {
+    "id": "MONZ-ENS1-0041",
+    "name": "Juki DNL-5410-6",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DNL-5410-6",
+    "createdAt": "2026-07-06T20:22:55.327159Z"
+  },
+  {
+    "id": "MONZ-ENS1-0042",
+    "name": "Juki DLN-9010A",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A",
+    "createdAt": "2026-07-06T20:22:55.327188Z"
+  },
+  {
+    "id": "MONZ-ENS1-0043",
+    "name": "Juki MA4-9265-5",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "MA4-9265-5",
+    "createdAt": "2026-07-06T20:22:55.327216Z"
+  },
+  {
+    "id": "MONZ-ENS1-0044",
+    "name": "Juki DLN-5410-6",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.327246Z"
+  },
+  {
+    "id": "MONZ-ENS1-0045",
+    "name": "Juki DLN-5410-6",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.327276Z"
+  },
+  {
+    "id": "MONZ-ENS1-0046",
+    "name": "Brother DLN-9010-ASS",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Brother",
+    "model": "DLN-9010-ASS",
+    "createdAt": "2026-07-06T20:22:55.327309Z"
+  },
+  {
+    "id": "MONZ-ENS1-0047",
+    "name": "Juki CP-311",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "CP-311",
+    "createdAt": "2026-07-06T20:22:55.327338Z"
+  },
+  {
+    "id": "MONZ-ENS1-0048",
+    "name": "Juki DL7200-BM1",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DL7200-BM1",
+    "createdAt": "2026-07-06T20:22:55.327367Z"
+  },
+  {
+    "id": "MONZ-ENS1-0049",
+    "name": "Juki DLN-9010-ASS",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010-ASS",
+    "createdAt": "2026-07-06T20:22:55.327394Z"
+  },
+  {
+    "id": "MONZ-ENS1-0050",
+    "name": "LUNA PRESS CP-311",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "LUNA PRESS",
+    "model": "CP-311",
+    "createdAt": "2026-07-06T20:22:55.327422Z"
+  },
+  {
+    "id": "MONZ-ENS1-0051",
+    "name": "Siruba DL-7200-BMI",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL-7200-BMI",
+    "createdAt": "2026-07-06T20:22:55.327451Z"
+  },
+  {
+    "id": "MONZ-ENS1-0052",
+    "name": "JUKI DLN5410-6",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN5410-6",
+    "createdAt": "2026-07-06T20:22:55.327483Z"
+  },
+  {
+    "id": "MONZ-ENS1-0053",
+    "name": "Juki DLN-9010A-55",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010A-55",
+    "createdAt": "2026-07-06T20:22:55.327511Z"
+  },
+  {
+    "id": "MONZ-ENS1-0054",
+    "name": "LUNA PRESS T323",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "LUNA PRESS",
+    "model": "T323",
+    "createdAt": "2026-07-06T20:22:55.327540Z"
+  },
+  {
+    "id": "MONZ-ENS1-0055",
+    "name": "JUKI DDL-9000B-SS",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.327569Z"
+  },
+  {
+    "id": "MONZ-ENS1-0056",
+    "name": "ADLER 261",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "ADLER",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.327597Z"
+  },
+  {
+    "id": "MONZ-ENS1-0057",
+    "name": "Willcox & Gibbs 515-E32-450",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Willcox & Gibbs",
+    "model": "515-E32-450",
+    "createdAt": "2026-07-06T20:22:55.327627Z"
+  },
+  {
+    "id": "MONZ-ENS1-0058",
+    "name": "Juki LK-1903B-55",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LK-1903B-55",
+    "createdAt": "2026-07-06T20:22:55.327658Z"
+  },
+  {
+    "id": "MONZ-ENS1-0059",
+    "name": "Siruba LBH5-17905",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "LBH5-17905",
+    "createdAt": "2026-07-06T20:22:55.327688Z"
+  },
+  {
+    "id": "MONZ-ENS1-0060",
+    "name": "Siruba DL7200",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Siruba",
+    "model": "DL7200",
+    "createdAt": "2026-07-06T20:22:55.327717Z"
+  },
+  {
+    "id": "MONZ-ENS1-0061",
+    "name": "Juki DDL-9000",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DDL-9000",
+    "createdAt": "2026-07-06T20:22:55.327746Z"
+  },
+  {
+    "id": "MONZ-ENS1-0062",
+    "name": "Juki DLN-9010",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "DLN-9010",
+    "createdAt": "2026-07-06T20:22:55.327775Z"
+  },
+  {
+    "id": "MONZ-ENS1-0063",
+    "name": "Juki LBH-17905",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LBH-17905",
+    "createdAt": "2026-07-06T20:22:55.327804Z"
+  },
+  {
+    "id": "MONZ-ENS1-0064",
+    "name": "Juki LK-19031B",
+    "area": "ENS-1",
+    "status": "Operando",
+    "brand": "Juki",
+    "model": "LK-19031B",
+    "createdAt": "2026-07-06T20:22:55.327832Z"
+  },
+  {
+    "id": "8DOHL02184",
+    "name": "JUKI DDL-9000-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DDL-9000-SS",
+    "createdAt": "2026-07-06T20:22:55.328807Z"
+  },
+  {
+    "id": "0261568488",
+    "name": "DURKOPP ADLER 261",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "DURKOPP ADLER",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.328833Z"
+  },
+  {
+    "id": "22074515627",
+    "name": "JACK A6F-E",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "A6F-E",
+    "createdAt": "2026-07-06T20:22:55.328857Z"
+  },
+  {
+    "id": "22054519192",
+    "name": "JACK A6F-E",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "A6F-E",
+    "createdAt": "2026-07-06T20:22:55.328881Z"
+  },
+  {
+    "id": "22054518090",
+    "name": "JACK A6F-E",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "A6F-E",
+    "createdAt": "2026-07-06T20:22:55.328904Z"
+  },
+  {
+    "id": "8DOHH06132",
+    "name": "JUKI DDL-9000B-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.328931Z"
+  },
+  {
+    "id": "DLNAG38213",
+    "name": "JUKI 5410",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "5410",
+    "createdAt": "2026-07-06T20:22:55.328954Z"
+  },
+  {
+    "id": "2204450126523",
+    "name": "JACK A6F-E",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "A6F-E",
+    "createdAt": "2026-07-06T20:22:55.328978Z"
+  },
+  {
+    "id": "X89018107",
+    "name": "SIRUBA DL7200-NM1-16",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200-NM1-16",
+    "createdAt": "2026-07-06T20:22:55.329000Z"
+  },
+  {
+    "id": "X89018127",
+    "name": "SIRUBA DL7200-NM1-16",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200-NM1-16",
+    "createdAt": "2026-07-06T20:22:55.329024Z"
+  },
+  {
+    "id": "8DOEG11902",
+    "name": "JUKI DDL-9000B-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.329047Z"
+  },
+  {
+    "id": "951939",
+    "name": "UNION SPECIAL 54400",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "UNION SPECIAL",
+    "model": "54400",
+    "createdAt": "2026-07-06T20:22:55.329070Z"
+  },
+  {
+    "id": "1749360",
+    "name": "UNION SPECIAL 54400",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "UNION SPECIAL",
+    "model": "54400",
+    "createdAt": "2026-07-06T20:22:55.329092Z"
+  },
+  {
+    "id": "1763526",
+    "name": "UNION SPECIAL 54400",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "UNION SPECIAL",
+    "model": "54400",
+    "createdAt": "2026-07-06T20:22:55.329120Z"
+  },
+  {
+    "id": "1708994",
+    "name": "UNION SPECIAL 54400",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "UNION SPECIAL",
+    "model": "54400",
+    "createdAt": "2026-07-06T20:22:55.329144Z"
+  },
+  {
+    "id": "1319091",
+    "name": "KANSAI DFB-1412 PTV-1",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "KANSAI",
+    "model": "DFB-1412 PTV-1",
+    "createdAt": "2026-07-06T20:22:55.329166Z"
+  },
+  {
+    "id": "8DOEE31679",
+    "name": "JUKI DDL-9000B-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.329189Z"
+  },
+  {
+    "id": "0261568402",
+    "name": "DURKOPP ADLER 261",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "DURKOPP ADLER",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.329212Z"
+  },
+  {
+    "id": "0261568491",
+    "name": "DURKOPP ADLER 261",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "DURKOPP ADLER",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.329235Z"
+  },
+  {
+    "id": "8DOFM21196",
+    "name": "JUKI DDL-9000B-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.329258Z"
+  },
+  {
+    "id": "218L007776",
+    "name": "SIRUBA 747 LD-514M",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "747 LD-514M",
+    "createdAt": "2026-07-06T20:22:55.329286Z"
+  },
+  {
+    "id": "8DOEC11154",
+    "name": "JUKI DDL-9000B-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DDL-9000B-SS",
+    "createdAt": "2026-07-06T20:22:55.329309Z"
+  },
+  {
+    "id": "0261568407",
+    "name": "DURKOPP ADLER 261",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "DURKOPP ADLER",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.329332Z"
+  },
+  {
+    "id": "X89015017",
+    "name": "SIRUBA DL7200-BM1-16",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200-BM1-16",
+    "createdAt": "2026-07-06T20:22:55.329359Z"
+  },
+  {
+    "id": "7036",
+    "name": "AC. XL-75",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "AC.",
+    "model": "XL-75",
+    "createdAt": "2026-07-06T20:22:55.329380Z"
+  },
+  {
+    "id": "6806",
+    "name": "AC. XL-75",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "AC.",
+    "model": "XL-75",
+    "createdAt": "2026-07-06T20:22:55.329402Z"
+  },
+  {
+    "id": "MONZ-EMER-0065",
+    "name": "LUNA PRESS CP-323T",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "LUNA PRESS",
+    "model": "CP-323T",
+    "createdAt": "2026-07-06T20:22:55.329430Z"
+  },
+  {
+    "id": "18101023217",
+    "name": "JACK 58450J",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "58450J",
+    "createdAt": "2026-07-06T20:22:55.329454Z"
+  },
+  {
+    "id": "PL1-000432",
+    "name": "BROTHER",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "BROTHER",
+    "model": "N/A",
+    "createdAt": "2026-07-06T20:22:55.329477Z"
+  },
+  {
+    "id": "2L1GG00380",
+    "name": "JUKI LK-1900",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LK-1900",
+    "createdAt": "2026-07-06T20:22:55.329500Z"
+  },
+  {
+    "id": "2L1GD00242",
+    "name": "JUKI LK-1900",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LK-1900",
+    "createdAt": "2026-07-06T20:22:55.329523Z"
+  },
+  {
+    "id": "141295036",
+    "name": "JACK T1900BSK",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JACK",
+    "model": "T1900BSK",
+    "createdAt": "2026-07-06T20:22:55.329547Z"
+  },
+  {
+    "id": "2L1HK01140",
+    "name": "JUKI LK-1903B-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LK-1903B-SS",
+    "createdAt": "2026-07-06T20:22:55.329570Z"
+  },
+  {
+    "id": "2L1HK00480",
+    "name": "JUKI LK-1903B-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LK-1903B-SS",
+    "createdAt": "2026-07-06T20:22:55.329594Z"
+  },
+  {
+    "id": "2L1HK01138",
+    "name": "JUKI LK-1903B-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LK-1903B-SS",
+    "createdAt": "2026-07-06T20:22:55.329617Z"
+  },
+  {
+    "id": "2L1HK00479",
+    "name": "JUKI LK-1903B-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LK-1903B-SS",
+    "createdAt": "2026-07-06T20:22:55.329640Z"
+  },
+  {
+    "id": "2L1HK00476",
+    "name": "JUKI LK-1903B-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LK-1903B-SS",
+    "createdAt": "2026-07-06T20:22:55.329663Z"
+  },
+  {
+    "id": "2L1HJ01998",
+    "name": "JUKI LK-1903B-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LK-1903B-SS",
+    "createdAt": "2026-07-06T20:22:55.329686Z"
+  },
+  {
+    "id": "2L1HK00477",
+    "name": "JUKI LK-1903B-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LK-1903B-SS",
+    "createdAt": "2026-07-06T20:22:55.329708Z"
+  },
+  {
+    "id": "2L1HK00471",
+    "name": "JUKI LK-1903B-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LK-1903B-SS",
+    "createdAt": "2026-07-06T20:22:55.329733Z"
+  },
+  {
+    "id": "2L1HJ02642",
+    "name": "JUKI LK-1903B-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LK-1903B-SS",
+    "createdAt": "2026-07-06T20:22:55.329785Z"
+  },
+  {
+    "id": "2L1HK01139",
+    "name": "JUKI LK-1903B-SS",
+    "area": "Emerson",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LK-1903B-SS",
+    "createdAt": "2026-07-06T20:22:55.329804Z"
+  },
+  {
+    "id": "COLUMN3",
+    "name": "Column1 Column2",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "Column1",
+    "model": "Column2",
+    "createdAt": "2026-07-06T20:22:55.330372Z"
+  },
+  {
+    "id": "MHOWK06119",
+    "name": "juki MH380",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "juki",
+    "model": "MH380",
+    "createdAt": "2026-07-06T20:22:55.330457Z"
+  },
+  {
+    "id": "1735330",
+    "name": "U. SPECIAL 56400",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "U. SPECIAL",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.330499Z"
+  },
+  {
+    "id": "MHOVL02852",
+    "name": "juki MH380",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "juki",
+    "model": "MH380",
+    "createdAt": "2026-07-06T20:22:55.330520Z"
+  },
+  {
+    "id": "8MOKA027285",
+    "name": "juki M06716",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "juki",
+    "model": "M06716",
+    "createdAt": "2026-07-06T20:22:55.330543Z"
+  },
+  {
+    "id": "1113662",
+    "name": "U. SPECIAL 56300",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "U. SPECIAL",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.330568Z"
+  },
+  {
+    "id": "1389794",
+    "name": "U. SPECIAL 56400",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "U. SPECIAL",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.330593Z"
+  },
+  {
+    "id": "MHOVA02173",
+    "name": "juki MH380",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "juki",
+    "model": "MH380",
+    "createdAt": "2026-07-06T20:22:55.330618Z"
+  },
+  {
+    "id": "1606916",
+    "name": "U. SPECIAL 56300",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "U. SPECIAL",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.330642Z"
+  },
+  {
+    "id": "2L1DH02003",
+    "name": "juki LK1903A",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "juki",
+    "model": "LK1903A",
+    "createdAt": "2026-07-06T20:22:55.330667Z"
+  },
+  {
+    "id": "2L1DF01193",
+    "name": "juki LK1903A",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "juki",
+    "model": "LK1903A",
+    "createdAt": "2026-07-06T20:22:55.330692Z"
+  },
+  {
+    "id": "19083000699",
+    "name": "jack JKI9270D",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "jack",
+    "model": "JKI9270D",
+    "createdAt": "2026-07-06T20:22:55.330721Z"
+  },
+  {
+    "id": "MONZ-JOSE-0066",
+    "name": "juki DLN9410-6",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "juki",
+    "model": "DLN9410-6",
+    "createdAt": "2026-07-06T20:22:55.330760Z"
+  },
+  {
+    "id": "17042011775",
+    "name": "jack 58450-G",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "jack",
+    "model": "58450-G",
+    "createdAt": "2026-07-06T20:22:55.330786Z"
+  },
+  {
+    "id": "2A3ZF00142",
+    "name": "juki AMS-210E",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "juki",
+    "model": "AMS-210E",
+    "createdAt": "2026-07-06T20:22:55.330812Z"
+  },
+  {
+    "id": "18101027927",
+    "name": "jack 58450-J",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "jack",
+    "model": "58450-J",
+    "createdAt": "2026-07-06T20:22:55.330842Z"
+  },
+  {
+    "id": "DLNWC16158",
+    "name": "juki DLN5410-6",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "juki",
+    "model": "DLN5410-6",
+    "createdAt": "2026-07-06T20:22:55.330865Z"
+  },
+  {
+    "id": "X8915159",
+    "name": "siruba DL7200BM1",
+    "area": "Jose Montes (fuera de uso)",
+    "status": "Fuera de Servicio",
+    "brand": "siruba",
+    "model": "DL7200BM1",
+    "createdAt": "2026-07-06T20:22:55.330891Z"
+  },
+  {
+    "id": "2LOFK00203",
+    "name": "JUKI LBH-1790 S",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LBH-1790 S",
+    "createdAt": "2026-07-06T20:22:55.331493Z"
+  },
+  {
+    "id": "2L1EB01520",
+    "name": "JUKI LK-1903ASS",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "LK-1903ASS",
+    "createdAt": "2026-07-06T20:22:55.331520Z"
+  },
+  {
+    "id": "261568396",
+    "name": "Dürkopp 261",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "Dürkopp",
+    "model": "261",
+    "createdAt": "2026-07-06T20:22:55.331548Z"
+  },
+  {
+    "id": "186147",
+    "name": "Union Especial 54400 K",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "Union Especial",
+    "model": "54400 K",
+    "createdAt": "2026-07-06T20:22:55.331571Z"
+  },
+  {
+    "id": "DDLUH15966",
+    "name": "JUKI DDL-5550-6",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DDL-5550-6",
+    "createdAt": "2026-07-06T20:22:55.331595Z"
+  },
+  {
+    "id": "150696156P",
+    "name": "Jack T1900BSK",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "Jack",
+    "model": "T1900BSK",
+    "createdAt": "2026-07-06T20:22:55.331626Z"
+  },
+  {
+    "id": "501176",
+    "name": "JUKI DLN-5410N-6",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN-5410N-6",
+    "createdAt": "2026-07-06T20:22:55.331648Z"
+  },
+  {
+    "id": "92QY006453",
+    "name": "SIRUBA DL7200-BM1-16",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200-BM1-16",
+    "createdAt": "2026-07-06T20:22:55.331672Z"
+  },
+  {
+    "id": "1111255",
+    "name": "Union Especial 56200",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "Union Especial",
+    "model": "56200",
+    "createdAt": "2026-07-06T20:22:55.331695Z"
+  },
+  {
+    "id": "DLNAB36460",
+    "name": "JUKI DLN-5410-6",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.331718Z"
+  },
+  {
+    "id": "1169552",
+    "name": "Union Especial 56300",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "Union Especial",
+    "model": "56300",
+    "createdAt": "2026-07-06T20:22:55.331741Z"
+  },
+  {
+    "id": "8MOKA02752",
+    "name": "JUKI MO-6716S",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "MO-6716S",
+    "createdAt": "2026-07-06T20:22:55.331764Z"
+  },
+  {
+    "id": "505395",
+    "name": "JUKI DLN-5410-6",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.331787Z"
+  },
+  {
+    "id": "2D3JH00056",
+    "name": "JUKI DLN-9010A-SS",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN-9010A-SS",
+    "createdAt": "2026-07-06T20:22:55.331810Z"
+  },
+  {
+    "id": "1742816",
+    "name": "Union Especial 56400",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "Union Especial",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.331833Z"
+  },
+  {
+    "id": "1467554",
+    "name": "Union Especial 56400",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "Union Especial",
+    "model": "56400",
+    "createdAt": "2026-07-06T20:22:55.331856Z"
+  },
+  {
+    "id": "MHOBF03159",
+    "name": "JUKI MH-380",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "MH-380",
+    "createdAt": "2026-07-06T20:22:55.331881Z"
+  },
+  {
+    "id": "DLNTJ01540",
+    "name": "JUKI DLN-5410-6",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN-5410-6",
+    "createdAt": "2026-07-06T20:22:55.331905Z"
+  },
+  {
+    "id": "920Y003830",
+    "name": "SIRUBA DL7200-BM1-16",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200-BM1-16",
+    "createdAt": "2026-07-06T20:22:55.331931Z"
+  },
+  {
+    "id": "919Y021303",
+    "name": "SIRUBA DL7200-BM1",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200-BM1",
+    "createdAt": "2026-07-06T20:22:55.331954Z"
+  },
+  {
+    "id": "P67492",
+    "name": "JUKI DDL-5550-6",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DDL-5550-6",
+    "createdAt": "2026-07-06T20:22:55.331977Z"
+  },
+  {
+    "id": "038RC00347",
+    "name": "JUKI MS-1190M",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "MS-1190M",
+    "createdAt": "2026-07-06T20:22:55.332001Z"
+  },
+  {
+    "id": "2D3JH00031",
+    "name": "JUKI DLN-9010A-SS",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN-9010A-SS",
+    "createdAt": "2026-07-06T20:22:55.332024Z"
+  },
+  {
+    "id": "DLNAB36469",
+    "name": "JUKI DLN-5410-7",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "JUKI",
+    "model": "DLN-5410-7",
+    "createdAt": "2026-07-06T20:22:55.332047Z"
+  },
+  {
+    "id": "X89015008",
+    "name": "SIRUBA DL7200-BM1-16",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "DL7200-BM1-16",
+    "createdAt": "2026-07-06T20:22:55.332070Z"
+  },
+  {
+    "id": "219L000317",
+    "name": "SIRUBA 747L-514M",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "747L-514M",
+    "createdAt": "2026-07-06T20:22:55.332123Z"
+  },
+  {
+    "id": "118K073603",
+    "name": "SIRUBA C007KD-W322",
+    "area": "Desarrollo de producto",
+    "status": "Operando",
+    "brand": "SIRUBA",
+    "model": "C007KD-W322",
+    "createdAt": "2026-07-06T20:22:55.332148Z"
+  }
+]
